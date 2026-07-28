@@ -1,0 +1,1693 @@
+# UniProt_ID,P23560
+# Target_name,BDNF_HUMAN Neurotrophic factor BDNF precursor form
+# Molecules_screened,1687
+# Generated_at,2025-08-21T21:37:39
+#
+Rank,Drug Name,Target Name,Binding Score
+1,hexadrone,BDNF_HUMAN,45.63
+2,epistane,BDNF_HUMAN,49.18
+3,schizandrol-a,BDNF_HUMAN,56.02
+4,boswellic acid,BDNF_HUMAN,63.84
+5,dehydroepiandrosterone,BDNF_HUMAN,94.42
+6,cyproheptadine hydrochloride,BDNF_HUMAN,109.33
+7,beta-zeacarotene,BDNF_HUMAN,119.15
+8,hydrastine,BDNF_HUMAN,124.67
+9,stigmasterol,BDNF_HUMAN,125.07
+10,egg yolk lecithin,BDNF_HUMAN,128.26
+11,canthaxanthin,BDNF_HUMAN,147.35
+12,cephaline,BDNF_HUMAN,149.79
+13,bacosine,BDNF_HUMAN,150.34
+14,galantamine hydrobromide,BDNF_HUMAN,158.64
+15,berberine sulfate,BDNF_HUMAN,162.99
+16,gamma carotene,BDNF_HUMAN,199.90
+17,19-norandrostenediol,BDNF_HUMAN,202.32
+18,calcium salt,BDNF_HUMAN,213.34
+19,fgf,BDNF_HUMAN,216.31
+20,tannic acid,BDNF_HUMAN,235.44
+21,heather,BDNF_HUMAN,246.56
+22,beta-sitosterol,BDNF_HUMAN,246.96
+23,pac,BDNF_HUMAN,247.33
+24,berberine hcl,BDNF_HUMAN,253.69
+25,1-androsterone,BDNF_HUMAN,261.63
+26,methylclostebol,BDNF_HUMAN,265.80
+27,epo,BDNF_HUMAN,276.58
+28,igd,BDNF_HUMAN,281.15
+29,androstenedione,BDNF_HUMAN,291.73
+30,dimethazine,BDNF_HUMAN,303.31
+31,yk-11,BDNF_HUMAN,323.16
+32,vincamine,BDNF_HUMAN,325.93
+33,cycloastragenol,BDNF_HUMAN,326.92
+34,mitoq,BDNF_HUMAN,327.23
+35,cryptoxanthin,BDNF_HUMAN,334.73
+36,alpha-carotene,BDNF_HUMAN,342.89
+37,egc,BDNF_HUMAN,345.11
+38,furazadrol,BDNF_HUMAN,351.35
+39,chlorophyll,BDNF_HUMAN,353.25
+40,hydroxycobalamin,BDNF_HUMAN,355.89
+41,cocarboxylase,BDNF_HUMAN,363.95
+42,campestrol,BDNF_HUMAN,365.25
+43,carbomer,BDNF_HUMAN,376.39
+44,cascaroside a,BDNF_HUMAN,377.21
+45,pregnenolone,BDNF_HUMAN,389.04
+46,parthenolide,BDNF_HUMAN,393.09
+47,oleoresin,BDNF_HUMAN,394.11
+48,ginkgolide a,BDNF_HUMAN,405.46
+49,oleanic acid,BDNF_HUMAN,405.58
+50,catechin,BDNF_HUMAN,414.81
+51,thiamine pyrophosphate,BDNF_HUMAN,416.20
+52,betulinic acid,BDNF_HUMAN,417.82
+53,cannabinoids,BDNF_HUMAN,421.54
+54,astaxanthin,BDNF_HUMAN,428.31
+55,withanolides,BDNF_HUMAN,430.41
+56,methyl b12,BDNF_HUMAN,437.42
+57,momordicin,BDNF_HUMAN,444.21
+58,cex,BDNF_HUMAN,445.55
+59,heme iron,BDNF_HUMAN,447.42
+60,thymol iodide,BDNF_HUMAN,456.60
+61,procyanidol,BDNF_HUMAN,458.61
+62,chebulic acid,BDNF_HUMAN,460.86
+63,bel,BDNF_HUMAN,474.62
+64,hematoporphyrin,BDNF_HUMAN,487.23
+65,gugulipid,BDNF_HUMAN,528.18
+66,3;5-diiodothyronine,BDNF_HUMAN,537.61
+67,lgd 3303,BDNF_HUMAN,541.96
+68,dong quai,BDNF_HUMAN,543.28
+69,b12,BDNF_HUMAN,543.95
+70,activin,BDNF_HUMAN,545.02
+71,vitexin-2-rhamnoside,BDNF_HUMAN,545.94
+72,vitamin d2,BDNF_HUMAN,580.19
+73,vitamin b12,BDNF_HUMAN,581.89
+74,capsanthin,BDNF_HUMAN,587.00
+75,pgx,BDNF_HUMAN,591.02
+76,daucosterol,BDNF_HUMAN,593.26
+77,cardiolipin,BDNF_HUMAN,595.80
+78,terpinen-4-ol,BDNF_HUMAN,607.93
+79,glycolipids,BDNF_HUMAN,616.99
+80,bay,BDNF_HUMAN,621.18
+81,oxytocin,BDNF_HUMAN,633.13
+82,d-delta-tocopherol,BDNF_HUMAN,635.59
+83,cbda,BDNF_HUMAN,639.46
+84,ruscogenins,BDNF_HUMAN,646.77
+85,calendula,BDNF_HUMAN,649.20
+86,cyanidin-3-rutinoside,BDNF_HUMAN,651.12
+87,berberine sulfate hydrate,BDNF_HUMAN,654.43
+88,dibencozide,BDNF_HUMAN,655.12
+89,phosphatidylserine,BDNF_HUMAN,660.09
+90,vitamin b-12,BDNF_HUMAN,662.97
+91,triterpenes,BDNF_HUMAN,670.78
+92,diosgenin,BDNF_HUMAN,674.24
+93,7-alpha-methyl-estra-4-ene-3;17-dione,BDNF_HUMAN,675.51
+94,lignan,BDNF_HUMAN,687.61
+95,fucoxanthin,BDNF_HUMAN,690.54
+96,vinburnine,BDNF_HUMAN,697.28
+97,d-gamma-tocotrienol,BDNF_HUMAN,703.10
+98,maslinic acid,BDNF_HUMAN,703.18
+99,d-beta-tocopherol,BDNF_HUMAN,713.73
+100,vitamin a,BDNF_HUMAN,721.87
+101,9-hydroxy-alpha-naphthoflavone,BDNF_HUMAN,727.51
+102,vat,BDNF_HUMAN,728.96
+103,zingiberene,BDNF_HUMAN,730.87
+104,11-hydroxy-yohimbine,BDNF_HUMAN,741.43
+105,decursinol,BDNF_HUMAN,752.58
+106,lgd,BDNF_HUMAN,771.62
+107,18-hydroxyeicosapentaenoic acid,BDNF_HUMAN,772.14
+108,lipstatin,BDNF_HUMAN,792.80
+109,fucosterol,BDNF_HUMAN,798.40
+110,d-alpha-tocopherol succinate,BDNF_HUMAN,841.09
+111,19-nordehydroepiandrosterone,BDNF_HUMAN,844.62
+112,cannabidiol,BDNF_HUMAN,845.82
+113,theaflavins,BDNF_HUMAN,850.18
+114,spectra,BDNF_HUMAN,868.32
+115,chlorophyllin,BDNF_HUMAN,872.61
+116,ginsenosides,BDNF_HUMAN,890.69
+117,beta-carotene,BDNF_HUMAN,902.13
+118,zinc tannate,BDNF_HUMAN,934.24
+119,carotenoids,BDNF_HUMAN,939.81
+120,chlorophyll a,BDNF_HUMAN,952.18
+121,oxygold,BDNF_HUMAN,966.08
+122,senna,BDNF_HUMAN,969.47
+123,picroliv,BDNF_HUMAN,974.04
+124,adenosylcobalamin,BDNF_HUMAN,980.95
+125,max lmg,BDNF_HUMAN,985.55
+126,riboflavin,BDNF_HUMAN,998.22
+127,nucleosides,BDNF_HUMAN,1016.14
+128,cardarine,BDNF_HUMAN,1021.13
+129,campesterol,BDNF_HUMAN,1041.13
+130,igm,BDNF_HUMAN,1056.46
+131,vinpocetine,BDNF_HUMAN,1068.91
+132,calcium magnesium phytate,BDNF_HUMAN,1074.11
+133,dihydrocapsaicin,BDNF_HUMAN,1077.66
+134,3;3'-diiodothyronine,BDNF_HUMAN,1079.58
+135,agnuside,BDNF_HUMAN,1099.64
+136,cholesterol,BDNF_HUMAN,1117.23
+137,zeaxanthin,BDNF_HUMAN,1121.99
+138,7;8-dihydroxyflavone,BDNF_HUMAN,1130.12
+139,menaquinone,BDNF_HUMAN,1134.67
+140,indian pink,BDNF_HUMAN,1147.31
+141,corosolic acid,BDNF_HUMAN,1153.47
+142,cbc,BDNF_HUMAN,1164.98
+143,p73,BDNF_HUMAN,1165.52
+144,dehydroabietic acid,BDNF_HUMAN,1169.79
+145,mitragynine,BDNF_HUMAN,1170.57
+146,thiamine disulfide,BDNF_HUMAN,1235.13
+147,methylstenbolone,BDNF_HUMAN,1235.64
+148,amino acids,BDNF_HUMAN,1238.60
+149,guar,BDNF_HUMAN,1246.24
+150,rad140,BDNF_HUMAN,1251.09
+151,tianeptine sodium,BDNF_HUMAN,1280.02
+152,s-23,BDNF_HUMAN,1282.81
+153,decursin,BDNF_HUMAN,1297.53
+154,resveratrol,BDNF_HUMAN,1313.72
+155,lotus,BDNF_HUMAN,1314.17
+156,tetrahydrocannabivarin,BDNF_HUMAN,1321.07
+157,artemisinin,BDNF_HUMAN,1341.68
+158,lutein zeaxanthin,BDNF_HUMAN,1351.64
+159,cannabinol,BDNF_HUMAN,1356.09
+160,vitexin,BDNF_HUMAN,1380.46
+161,ursolic acid,BDNF_HUMAN,1380.87
+162,vitamin e,BDNF_HUMAN,1393.93
+163,methylcobalamin,BDNF_HUMAN,1409.52
+164,seleno-di-glutathione,BDNF_HUMAN,1428.54
+165,riboflavin 5'-phosphate sodium,BDNF_HUMAN,1432.14
+166,zisu,BDNF_HUMAN,1448.86
+167,baicalin,BDNF_HUMAN,1476.28
+168,carnosol,BDNF_HUMAN,1481.25
+169,proanthocyanidin,BDNF_HUMAN,1484.29
+170,capsaicin,BDNF_HUMAN,1485.10
+171,riboflavin hydrochloride,BDNF_HUMAN,1485.36
+172,epsilon-viniferin,BDNF_HUMAN,1500.74
+173,brassicasterol,BDNF_HUMAN,1501.89
+174,benfotiamine,BDNF_HUMAN,1530.84
+175,ginkgolide c,BDNF_HUMAN,1544.68
+176,elm,BDNF_HUMAN,1577.76
+177,aminopeptidase,BDNF_HUMAN,1579.57
+178,erythrodiol,BDNF_HUMAN,1583.70
+179,25-deoxy-20-hydroxyecdysone,BDNF_HUMAN,1592.64
+180,adenosine triphosphate disodium,BDNF_HUMAN,1592.82
+181,acetogenins,BDNF_HUMAN,1623.36
+182,chlorophyllins,BDNF_HUMAN,1626.93
+183,nicotinamide adenine dinucleotide,BDNF_HUMAN,1659.79
+184,alpha-cedrene,BDNF_HUMAN,1661.63
+185,d-alpha-tocopheryl acetate,BDNF_HUMAN,1677.79
+186,gamma-tocopherol,BDNF_HUMAN,1712.64
+187,sequoiaflavone,BDNF_HUMAN,1737.92
+188,riboflavin sodium phosphate,BDNF_HUMAN,1742.79
+189,egcg,BDNF_HUMAN,1744.07
+190,ace,BDNF_HUMAN,1753.98
+191,ferronyl carbonyl iron,BDNF_HUMAN,1804.98
+192,vitamin d3,BDNF_HUMAN,1841.95
+193,enoxin,BDNF_HUMAN,1846.79
+194,lycopene,BDNF_HUMAN,1866.78
+195,palmitoylethanolamide,BDNF_HUMAN,1884.32
+196,tannase,BDNF_HUMAN,1885.17
+197,hydroxypropyl beta cyclodextrin,BDNF_HUMAN,1899.22
+198,forslean,BDNF_HUMAN,1926.37
+199,mk-7,BDNF_HUMAN,1936.76
+200,inositol hexaphosphate,BDNF_HUMAN,1957.11
+201,monascin,BDNF_HUMAN,1957.58
+202,hecogenin acetate,BDNF_HUMAN,1998.10
+203,7-hydroxymatairesinol,BDNF_HUMAN,2015.21
+204,ginkgolide b,BDNF_HUMAN,2019.15
+205,3-n-butylphthalide,BDNF_HUMAN,2032.99
+206,peroxidase,BDNF_HUMAN,2048.62
+207,s-adenosyl l-methionine,BDNF_HUMAN,2050.56
+208,ankaflavin,BDNF_HUMAN,2054.33
+209,terpinolene,BDNF_HUMAN,2104.90
+210,eye,BDNF_HUMAN,2122.83
+211,proanthocyanidins,BDNF_HUMAN,2133.67
+212,5-htp,BDNF_HUMAN,2137.97
+213,berberine,BDNF_HUMAN,2148.76
+214,phytofluene,BDNF_HUMAN,2161.15
+215,tocophersolan,BDNF_HUMAN,2198.68
+216,flavin adenine dinucleotide,BDNF_HUMAN,2235.83
+217,17-hydroxydocosahexaenoic acid,BDNF_HUMAN,2242.20
+218,camphene,BDNF_HUMAN,2259.31
+219,cyanidin-3-glucoside,BDNF_HUMAN,2269.77
+220,s-adenosyl-l-methionine tosylate,BDNF_HUMAN,2290.54
+221,igg,BDNF_HUMAN,2307.98
+222,benzalkonium chloride,BDNF_HUMAN,2313.18
+223,green tea leaves,BDNF_HUMAN,2314.01
+224,deoxyribonucleic acid,BDNF_HUMAN,2319.26
+225,boron aspartate,BDNF_HUMAN,2320.13
+226,tocotrienols,BDNF_HUMAN,2324.15
+227,s-adenosyl-methionine,BDNF_HUMAN,2332.40
+228,saponins,BDNF_HUMAN,2366.93
+229,leucodelphinidin,BDNF_HUMAN,2422.90
+230,resolvin d5,BDNF_HUMAN,2448.46
+231,3-iodotyrosine,BDNF_HUMAN,2479.04
+232,geranyl acetate,BDNF_HUMAN,2510.81
+233,phosphatidyl glycerol,BDNF_HUMAN,2537.18
+234,hypericin,BDNF_HUMAN,2549.38
+235,anatabine,BDNF_HUMAN,2575.63
+236,calcium-magnesium phytate,BDNF_HUMAN,2593.94
+237,andrographolide,BDNF_HUMAN,2656.63
+238,isosilybin,BDNF_HUMAN,2669.99
+239,nobiletin,BDNF_HUMAN,2688.73
+240,sotetsuflavone,BDNF_HUMAN,2712.77
+241,vitamin a palmitate,BDNF_HUMAN,2717.12
+242,nordihydrocapsaicin,BDNF_HUMAN,2736.51
+243,wogonin,BDNF_HUMAN,2738.82
+244,inositol nicotinate,BDNF_HUMAN,2749.96
+245,(2s)-3-(4-cyanophenoxy)-n-[4-cyano-3-(trifluoromethyl)phenyl]-2-hydroxy-2-methylpropanamide,BDNF_HUMAN,2757.09
+246,bilobalide,BDNF_HUMAN,2791.56
+247,magnesium pidolate,BDNF_HUMAN,2820.34
+248,2-phenyl-benzo[h]chromen-4-one,BDNF_HUMAN,2822.17
+249,acetyl l-carnitine arginate,BDNF_HUMAN,2853.25
+250,hemicellulase,BDNF_HUMAN,2904.06
+251,escin,BDNF_HUMAN,2940.16
+252,tgf-alpha,BDNF_HUMAN,2943.07
+253,ginkgetin,BDNF_HUMAN,2943.62
+254,isopropoxy isoflavone,BDNF_HUMAN,2972.72
+255,triterpenoids,BDNF_HUMAN,2980.76
+256,ferronyl iron,BDNF_HUMAN,3004.79
+257,allin,BDNF_HUMAN,3013.94
+258,vitamin k2,BDNF_HUMAN,3034.53
+259,caprylic acid triglyceride,BDNF_HUMAN,3056.56
+260,serotonin,BDNF_HUMAN,3060.45
+261,progesterone,BDNF_HUMAN,3109.40
+262,adrenal,BDNF_HUMAN,3139.21
+263,gkg,BDNF_HUMAN,3168.47
+264,sesquiterpenes,BDNF_HUMAN,3168.65
+265,d-delta-tocotrienol,BDNF_HUMAN,3192.55
+266,delphinidin,BDNF_HUMAN,3209.08
+267,glycodeoxycholic acid,BDNF_HUMAN,3235.14
+268,calcium folinate,BDNF_HUMAN,3243.22
+269,6-gingerol,BDNF_HUMAN,3260.94
+270,lariciresinol,BDNF_HUMAN,3263.71
+271,ethyl 3-[[(4-chlorophenyl)methyl-[(5-nitrothiophen-2-yl)methyl]amino]methyl]pyrrolidine-1-carboxylate,BDNF_HUMAN,3288.15
+272,galangin,BDNF_HUMAN,3325.12
+273,cyclodextrin,BDNF_HUMAN,3350.35
+274,saponin,BDNF_HUMAN,3371.28
+275,triacetyluridine,BDNF_HUMAN,3387.66
+276,cbdv,BDNF_HUMAN,3416.28
+277,6-paradol,BDNF_HUMAN,3428.43
+278,3;4-divanillyltetrahydrofuran,BDNF_HUMAN,3464.90
+279,intrinsic factor,BDNF_HUMAN,3513.39
+280,ipriflavone,BDNF_HUMAN,3520.06
+281,vitamin,BDNF_HUMAN,3520.60
+282,diosmetin,BDNF_HUMAN,3562.74
+283,delphinidin-3-rutinoside,BDNF_HUMAN,3586.62
+284,d-beta-tocotrienol,BDNF_HUMAN,3614.52
+285,silychristin,BDNF_HUMAN,3616.86
+286,valencene,BDNF_HUMAN,3681.25
+287,bismuth subsalicylate,BDNF_HUMAN,3687.75
+288,probiotic,BDNF_HUMAN,3709.62
+289,schizandrol a,BDNF_HUMAN,3748.23
+290,s-acetyl-l-glutathione,BDNF_HUMAN,3759.78
+291,epiandrosterone,BDNF_HUMAN,3760.94
+292,pepsin,BDNF_HUMAN,3776.35
+293,hop,BDNF_HUMAN,3789.17
+294,isopropyl myristate,BDNF_HUMAN,3794.13
+295,alpha-bisabolol,BDNF_HUMAN,3810.36
+296,matrix,BDNF_HUMAN,3822.60
+297,hyperforin,BDNF_HUMAN,3824.03
+298,s-adenosyl-l-methionine tosylate disulfate,BDNF_HUMAN,3847.68
+299,parthenium,BDNF_HUMAN,3904.67
+300,hypericum,BDNF_HUMAN,3940.25
+301,lignans,BDNF_HUMAN,3952.15
+302,kaempferide,BDNF_HUMAN,3982.29
+303,rs5,BDNF_HUMAN,4036.54
+304,adenosine triphosphate disodium salt,BDNF_HUMAN,4055.34
+305,peptan,BDNF_HUMAN,4069.01
+306,kava,BDNF_HUMAN,4069.59
+307,dioscin,BDNF_HUMAN,4082.18
+308,tauroxicum,BDNF_HUMAN,4088.28
+309,isoquercetin,BDNF_HUMAN,4091.53
+310,bergamot oil,BDNF_HUMAN,4104.28
+311,phloridzin,BDNF_HUMAN,4201.63
+312,serrapeptase,BDNF_HUMAN,4238.86
+313,adenosine triphosphate,BDNF_HUMAN,4270.31
+314,baicalein,BDNF_HUMAN,4312.65
+315,corynine,BDNF_HUMAN,4323.80
+316,phytol,BDNF_HUMAN,4330.34
+317,docosahexaenoic acid ethyl ester,BDNF_HUMAN,4330.59
+318,quatrefolic,BDNF_HUMAN,4333.66
+319,adenosine 5'-triphosphate disodium,BDNF_HUMAN,4360.76
+320,malvidin,BDNF_HUMAN,4410.57
+321,progenin iii,BDNF_HUMAN,4420.21
+322,asiaticoside,BDNF_HUMAN,4447.95
+323,l-tetrahydropalmatine,BDNF_HUMAN,4457.06
+324,harpagoside,BDNF_HUMAN,4509.52
+325,ginsenoside rg3,BDNF_HUMAN,4550.50
+326,osa,BDNF_HUMAN,4594.61
+327,nadh,BDNF_HUMAN,4623.03
+328,hwg,BDNF_HUMAN,4626.54
+329,protodioscin,BDNF_HUMAN,4661.03
+330,11-keto-beta-boswellic acid,BDNF_HUMAN,4711.71
+331,luteolin-7-o-glucoside,BDNF_HUMAN,4732.65
+332,sitostanol,BDNF_HUMAN,4755.48
+333,hesperitin,BDNF_HUMAN,4763.77
+334,folinic acid,BDNF_HUMAN,4772.53
+335,salvianolic acid b,BDNF_HUMAN,4785.23
+336,c3g,BDNF_HUMAN,4797.81
+337,arginine malate,BDNF_HUMAN,4813.11
+338,14-hydroxydocosahexaenoic acid,BDNF_HUMAN,4815.54
+339,n-acetyl-l-cystine,BDNF_HUMAN,4840.72
+340,higenamine hcl,BDNF_HUMAN,4872.44
+341,xanthinol nicotinate,BDNF_HUMAN,4944.45
+342,arjunolic acid,BDNF_HUMAN,4950.86
+343,11-oxo,BDNF_HUMAN,4959.14
+344,valerenic acid,BDNF_HUMAN,5023.53
+345,octadecatetraenoic acid,BDNF_HUMAN,5024.18
+346,cyanidin,BDNF_HUMAN,5063.38
+347,yellows,BDNF_HUMAN,5079.89
+348,gamma cyclodextrin,BDNF_HUMAN,5090.98
+349,eicosatetraenoic acid,BDNF_HUMAN,5097.44
+350,pseudoprotodioscin,BDNF_HUMAN,5100.74
+351,sorbitan oleate,BDNF_HUMAN,5142.24
+352,borneol,BDNF_HUMAN,5216.17
+353,d-alpha-tocotrienol,BDNF_HUMAN,5231.80
+354,aurantium,BDNF_HUMAN,5300.81
+355,magnesium ascorbyl phosphate,BDNF_HUMAN,5365.16
+356,ellagic acid,BDNF_HUMAN,5404.75
+357,turkey rhubarb,BDNF_HUMAN,5455.32
+358,l-methylfolate magnesium,BDNF_HUMAN,5520.84
+359,taurocholic acid,BDNF_HUMAN,5570.36
+360,aucubin,BDNF_HUMAN,5643.45
+361,uridine 5'-monophosphate disodium salt,BDNF_HUMAN,5660.24
+362,l-methylfolate calcium,BDNF_HUMAN,5672.51
+363,dim,BDNF_HUMAN,5715.00
+364,acacetin,BDNF_HUMAN,5741.75
+365,docosapentaenoic acid ethyl ester,BDNF_HUMAN,5743.15
+366,tricreatine malate,BDNF_HUMAN,5743.22
+367,l-glutathione,BDNF_HUMAN,5745.83
+368,adrafinil,BDNF_HUMAN,5767.61
+369,folic acid,BDNF_HUMAN,5781.66
+370,neoxanthin,BDNF_HUMAN,5876.70
+371,p-6,BDNF_HUMAN,5929.67
+372,lactucopicrin,BDNF_HUMAN,5969.17
+373,dicreatine malate,BDNF_HUMAN,6010.38
+374,myricetin,BDNF_HUMAN,6020.04
+375,3beta-acetoxy-5alpha-androstan-17-one,BDNF_HUMAN,6026.49
+376,carnosic acid,BDNF_HUMAN,6032.40
+377,tianeptine,BDNF_HUMAN,6075.27
+378,andarine,BDNF_HUMAN,6128.06
+379,higenamine,BDNF_HUMAN,6129.86
+380,petunidin,BDNF_HUMAN,6138.01
+381,myricitrin,BDNF_HUMAN,6161.36
+382,eicosapentaenoic acid ethyl ester,BDNF_HUMAN,6168.31
+383,sfb,BDNF_HUMAN,6172.18
+384,trans-geranylgeraniol,BDNF_HUMAN,6191.07
+385,centellin,BDNF_HUMAN,6193.31
+386,l-carnitine orotate,BDNF_HUMAN,6201.86
+387,taxifolin,BDNF_HUMAN,6220.65
+388,ibutamoren,BDNF_HUMAN,6307.18
+389,methyl protodioscin,BDNF_HUMAN,6335.91
+390,piperlongumine,BDNF_HUMAN,6372.23
+391,muscarine,BDNF_HUMAN,6383.43
+392,potassium benzoate,BDNF_HUMAN,6430.42
+393,turkesterone,BDNF_HUMAN,6480.38
+394,bala,BDNF_HUMAN,6519.04
+395,oleuropein aglycone,BDNF_HUMAN,6539.85
+396,saikosaponin a,BDNF_HUMAN,6554.96
+397,calcium orotate,BDNF_HUMAN,6576.69
+398,copper gluconate,BDNF_HUMAN,6583.96
+399,petasin,BDNF_HUMAN,6586.22
+400,yohimbine hcl,BDNF_HUMAN,6621.11
+401,xanthophyll,BDNF_HUMAN,6630.66
+402,glycochenodeoxycholic acid,BDNF_HUMAN,6661.39
+403,epf,BDNF_HUMAN,6708.55
+404,pantethine,BDNF_HUMAN,6739.14
+405,red squill,BDNF_HUMAN,6757.58
+406,taurochenodeoxycholic acid,BDNF_HUMAN,6865.03
+407,salidroside,BDNF_HUMAN,6908.51
+408,oleocanthal,BDNF_HUMAN,6958.96
+409,emodin,BDNF_HUMAN,6974.81
+410,taurodeoxycholic acid,BDNF_HUMAN,7037.20
+411,chromium nicotinate,BDNF_HUMAN,7091.19
+412,oleuropein,BDNF_HUMAN,7152.75
+413,kava kava,BDNF_HUMAN,7156.03
+414,cbga,BDNF_HUMAN,7166.23
+415,monacolin k,BDNF_HUMAN,7171.12
+416,dan-shen,BDNF_HUMAN,7217.63
+417,fibroblast growth factor,BDNF_HUMAN,7219.27
+418,zinc arginine,BDNF_HUMAN,7229.53
+419,dihydroberberine,BDNF_HUMAN,7236.40
+420,divanil,BDNF_HUMAN,7246.88
+421,octyl gallate,BDNF_HUMAN,7251.81
+422,silydianin,BDNF_HUMAN,7302.04
+423,tokyo violet,BDNF_HUMAN,7332.36
+424,bis picolinato oxo vanadium,BDNF_HUMAN,7340.77
+425,bismuth gluconate,BDNF_HUMAN,7375.11
+426,pyrroloquinoline quinone disodium salt,BDNF_HUMAN,7418.26
+427,miliacin,BDNF_HUMAN,7458.88
+428,isopropylnorsynephrine,BDNF_HUMAN,7488.70
+429,tanshinone iia,BDNF_HUMAN,7506.39
+430,5a-hydroxy laxogenin,BDNF_HUMAN,7633.50
+431,nmn,BDNF_HUMAN,7646.61
+432,chrysin,BDNF_HUMAN,7651.26
+433,piceid,BDNF_HUMAN,7665.23
+434,l-citrulline monohydrate,BDNF_HUMAN,7672.10
+435,magnesium l-aspartate,BDNF_HUMAN,7673.53
+436,apigenin,BDNF_HUMAN,7772.42
+437,halodrol,BDNF_HUMAN,7872.18
+438,mix,BDNF_HUMAN,7933.77
+439,zinc-l-carnosine,BDNF_HUMAN,7942.48
+440,cannabinoid,BDNF_HUMAN,7969.53
+441,n-methyltyramine hcl,BDNF_HUMAN,8005.11
+442,ivy,BDNF_HUMAN,8025.80
+443,magnesium orotate,BDNF_HUMAN,8072.08
+444,ethoxyquin,BDNF_HUMAN,8080.41
+445,gamma oryzanol,BDNF_HUMAN,8139.24
+446,fd&c red 40,BDNF_HUMAN,8194.40
+447,sesamin,BDNF_HUMAN,8280.04
+448,arginine ketoisocaproate,BDNF_HUMAN,8292.74
+449,chromium gtf,BDNF_HUMAN,8292.77
+450,fullerene,BDNF_HUMAN,8332.02
+451,(z)-n-(2-hydroxyethyl)octadec-9-enamide,BDNF_HUMAN,8338.60
+452,lysozyme chloride,BDNF_HUMAN,8368.94
+453,shellfish,BDNF_HUMAN,8381.70
+454,tudca sodium,BDNF_HUMAN,8448.01
+455,chromium dinicotinate glycinate,BDNF_HUMAN,8460.92
+456,3-acetyl-11-keto-beta-boswellic acid,BDNF_HUMAN,8463.91
+457,6-keto-diosgenin,BDNF_HUMAN,8475.75
+458,indigo,BDNF_HUMAN,8480.69
+459,6-bromo,BDNF_HUMAN,8506.62
+460,iron picolinate,BDNF_HUMAN,8527.37
+461,matrine,BDNF_HUMAN,8535.76
+462,mk-677,BDNF_HUMAN,8548.54
+463,n-benzoyl-l-phenylalanine methyl ester,BDNF_HUMAN,8556.58
+464,bile salt,BDNF_HUMAN,8597.06
+465,mogroside v,BDNF_HUMAN,8640.69
+466,4-hydroxyandrostenedione,BDNF_HUMAN,8708.23
+467,bacoside a3,BDNF_HUMAN,8830.99
+468,hydroxypropyl-beta-cyclodextrin,BDNF_HUMAN,8840.61
+469,phyllemblin,BDNF_HUMAN,8847.44
+470,zinc orotate,BDNF_HUMAN,8889.26
+471,glycosides,BDNF_HUMAN,8934.78
+472,arginine alpha-ketoglutarate,BDNF_HUMAN,8939.91
+473,biochanin a,BDNF_HUMAN,8949.55
+474,anthocyanins,BDNF_HUMAN,8951.15
+475,p5p,BDNF_HUMAN,8979.89
+476,mediator,BDNF_HUMAN,9084.84
+477,quercetin dihydrate,BDNF_HUMAN,9113.41
+478,cbg,BDNF_HUMAN,9135.27
+479,mannanase,BDNF_HUMAN,9266.36
+480,xos,BDNF_HUMAN,9271.33
+481,citrulline malate,BDNF_HUMAN,9376.15
+482,propylparaben,BDNF_HUMAN,9444.97
+483,propyl gallate,BDNF_HUMAN,9548.37
+484,coluracetam,BDNF_HUMAN,9565.84
+485,acetyl-l-carnitine arginate,BDNF_HUMAN,9567.55
+486,guaiol,BDNF_HUMAN,9599.29
+487,phytoestrogen,BDNF_HUMAN,9611.95
+488,bpf,BDNF_HUMAN,9659.97
+489,synephrine hcl,BDNF_HUMAN,9756.55
+490,5;7-dimethoxyflavone,BDNF_HUMAN,9824.00
+491,diglycerides,BDNF_HUMAN,9874.55
+492,ubiquinol,BDNF_HUMAN,9891.88
+493,peony,BDNF_HUMAN,9930.02
+494,pyridoxal 5-phosphate,BDNF_HUMAN,9935.80
+495,l-arginine aspartate,BDNF_HUMAN,9947.60
+496,verbascoside,BDNF_HUMAN,9949.49
+497,dihydromyricetin,BDNF_HUMAN,9999.14
+498,potassium lactate,BDNF_HUMAN,10065.11
+499,edta disodium,BDNF_HUMAN,10078.18
+500,wintergreen,BDNF_HUMAN,10131.13
+501,l-citrulline,BDNF_HUMAN,10186.58
+502,quercetin chalcone,BDNF_HUMAN,10188.22
+503,caffeine citrate,BDNF_HUMAN,10198.04
+504,pyrroloquinoline quinone disodium,BDNF_HUMAN,10200.21
+505,gamma-terpinene,BDNF_HUMAN,10258.85
+506,hederacoside c,BDNF_HUMAN,10329.04
+507,7-methoxy-8-(3-methylbut-2-en-1-yl)-2h-chromen-2-one,BDNF_HUMAN,10366.24
+508,quercetin,BDNF_HUMAN,10452.38
+509,oligofructose,BDNF_HUMAN,10461.90
+510,synephrine,BDNF_HUMAN,10478.60
+511,tangeretin,BDNF_HUMAN,10498.80
+512,citrulline hydrochloride,BDNF_HUMAN,10537.08
+513,pantotheine,BDNF_HUMAN,10558.18
+514,vanilla,BDNF_HUMAN,10563.93
+515,l-argininate,BDNF_HUMAN,10587.20
+516,coq10,BDNF_HUMAN,10646.46
+517,l-arginine hydrochloride,BDNF_HUMAN,10653.13
+518,7;4'-dimethoxyflavone,BDNF_HUMAN,10678.76
+519,cola,BDNF_HUMAN,10718.03
+520,thioproline,BDNF_HUMAN,10724.76
+521,isovitexin,BDNF_HUMAN,10732.44
+522,gamma-butyrobetaine ethyl ester,BDNF_HUMAN,10991.80
+523,magnesium phosphate,BDNF_HUMAN,11001.77
+524,eucalyptol,BDNF_HUMAN,11006.86
+525,para-aminobenzoate,BDNF_HUMAN,11047.85
+526,2'-deoxyguanosine,BDNF_HUMAN,11092.87
+527,theophylline,BDNF_HUMAN,11106.60
+528,glycine-l-arginine,BDNF_HUMAN,11245.09
+529,nerolidol,BDNF_HUMAN,11246.39
+530,hydroquinine,BDNF_HUMAN,11265.69
+531,nas,BDNF_HUMAN,11275.79
+532,potassium aspartate,BDNF_HUMAN,11330.99
+533,ascorbigen,BDNF_HUMAN,11357.41
+534,amylase,BDNF_HUMAN,11361.28
+535,dmz,BDNF_HUMAN,11396.19
+536,magnesium gluconate,BDNF_HUMAN,11399.10
+537,hyaluronan,BDNF_HUMAN,11455.68
+538,doxylamine succinate,BDNF_HUMAN,11480.16
+539,sodium starch glycolate,BDNF_HUMAN,11497.44
+540,deoxycholic acid,BDNF_HUMAN,11498.51
+541,gravel,BDNF_HUMAN,11505.95
+542,ec,BDNF_HUMAN,11568.04
+543,riboflavin 5' phosphate,BDNF_HUMAN,11637.04
+544,calcium pangamate,BDNF_HUMAN,11671.47
+545,chondroitin sulfate,BDNF_HUMAN,11678.88
+546,rutin,BDNF_HUMAN,11680.98
+547,cetyl stearate,BDNF_HUMAN,11800.20
+548,potassium fumarate,BDNF_HUMAN,11921.20
+549,ngf,BDNF_HUMAN,11997.81
+550,triphosphate,BDNF_HUMAN,12004.56
+551,mulberroside a,BDNF_HUMAN,12045.62
+552,methylparaben,BDNF_HUMAN,12141.08
+553,hexadecenoic acid,BDNF_HUMAN,12161.57
+554,nicotinoyl-gaba,BDNF_HUMAN,12166.48
+555,arginine pyroglutamate,BDNF_HUMAN,12263.12
+556,dehydroepiandrosterone enanthate,BDNF_HUMAN,12375.36
+557,chitinase,BDNF_HUMAN,12390.98
+558,phosphatidic acid,BDNF_HUMAN,12432.36
+559,dehydrocholic acid,BDNF_HUMAN,12448.02
+560,captex,BDNF_HUMAN,12609.69
+561,riboflavin-5'-phosphate,BDNF_HUMAN,12710.40
+562,centrophenoxine,BDNF_HUMAN,12718.68
+563,isoliquiritigenin,BDNF_HUMAN,12777.33
+564,vitamin a acetate,BDNF_HUMAN,12880.83
+565,l-arginine monohydrate,BDNF_HUMAN,12898.91
+566,copper citrate,BDNF_HUMAN,12953.49
+567,l-theanine,BDNF_HUMAN,12980.42
+568,ligustilide,BDNF_HUMAN,13000.47
+569,zinc picolinate,BDNF_HUMAN,13072.73
+570,tetrasodium edta,BDNF_HUMAN,13080.10
+571,n;n-dimethylphenethylamine,BDNF_HUMAN,13099.47
+572,fisetin,BDNF_HUMAN,13102.34
+573,ferrous asparto glycinate,BDNF_HUMAN,13153.88
+574,allithiamine,BDNF_HUMAN,13179.33
+575,miroestrol,BDNF_HUMAN,13201.28
+576,squalene,BDNF_HUMAN,13236.01
+577,protease,BDNF_HUMAN,13245.96
+578,aniracetam,BDNF_HUMAN,13290.80
+579,rutoside trihydrate,BDNF_HUMAN,13307.43
+580,inositol phosphate,BDNF_HUMAN,13399.81
+581,sucralose,BDNF_HUMAN,13412.60
+582,talcum,BDNF_HUMAN,13433.37
+583,chromium histidinate,BDNF_HUMAN,13472.63
+584,cannabis,BDNF_HUMAN,13485.45
+585,carnitine fumarate,BDNF_HUMAN,13508.90
+586,sodium lauryl sulfate,BDNF_HUMAN,13510.63
+587,choline citrate,BDNF_HUMAN,13542.73
+588,lithium aspartate,BDNF_HUMAN,13588.38
+589,gamma-butyrobetaine ethyl ester chloride,BDNF_HUMAN,13627.17
+590,ha,BDNF_HUMAN,13627.25
+591,sodium choleate,BDNF_HUMAN,13696.47
+592,opc,BDNF_HUMAN,13967.37
+593,acetylcholine,BDNF_HUMAN,13988.37
+594,27-deoxyactein,BDNF_HUMAN,14010.88
+595,linalool,BDNF_HUMAN,14175.35
+596,soybean isoflavones,BDNF_HUMAN,14200.66
+597,tetracosenoic acid,BDNF_HUMAN,14201.89
+598,guanosine,BDNF_HUMAN,14227.86
+599,kaempferol,BDNF_HUMAN,14249.23
+600,phosphatase,BDNF_HUMAN,14287.43
+601,hydroxytyrosol acetate,BDNF_HUMAN,14426.48
+602,diclofenac,BDNF_HUMAN,14479.63
+603,sodium d aspartate,BDNF_HUMAN,14550.72
+604,pulegone,BDNF_HUMAN,14550.91
+605,quinine,BDNF_HUMAN,14630.86
+606,teacrine,BDNF_HUMAN,14669.52
+607,astragalosides,BDNF_HUMAN,14723.55
+608,glycocarn,BDNF_HUMAN,14795.40
+609,lignins,BDNF_HUMAN,14838.51
+610,caraway,BDNF_HUMAN,14863.20
+611,disodium edta,BDNF_HUMAN,14866.12
+612,colour,BDNF_HUMAN,14948.47
+613,turmerone,BDNF_HUMAN,14974.57
+614,igf,BDNF_HUMAN,15046.64
+615,lactium,BDNF_HUMAN,15047.46
+616,3-acetyl-beta boswellic acid,BDNF_HUMAN,15111.32
+617,n-phenylethyl dimethylamine citrate,BDNF_HUMAN,15159.35
+618,anise oil,BDNF_HUMAN,15309.86
+619,glucosamine sulfate sodium chloride,BDNF_HUMAN,15312.86
+620,dipotassium phosphate,BDNF_HUMAN,15428.48
+621,arachidonic acid,BDNF_HUMAN,15455.09
+622,cellulase,BDNF_HUMAN,15466.89
+623,huperzine a,BDNF_HUMAN,15527.41
+624,acetyl-l-carnitine,BDNF_HUMAN,15599.12
+625,citicoline,BDNF_HUMAN,15692.15
+626,l-hydroxylysine,BDNF_HUMAN,15830.74
+627,lentinan,BDNF_HUMAN,15838.24
+628,sdg,BDNF_HUMAN,15846.84
+629,acetyl-l-carnitine arginate dihydrochloride,BDNF_HUMAN,15980.05
+630,n-acetyl-cysteine,BDNF_HUMAN,16025.94
+631,caffeine hydrochloride,BDNF_HUMAN,16042.43
+632,sgs,BDNF_HUMAN,16069.32
+633,safranal,BDNF_HUMAN,16071.90
+634,zinc difumarate hydrate,BDNF_HUMAN,16136.25
+635,calcium formate,BDNF_HUMAN,16225.36
+636,glucomannan,BDNF_HUMAN,16235.97
+637,tributyrin,BDNF_HUMAN,16239.71
+638,agar,BDNF_HUMAN,16256.46
+639,calcium d-pantothenate,BDNF_HUMAN,16288.55
+640,caffeine,BDNF_HUMAN,16310.10
+641,alpha-pinene,BDNF_HUMAN,16361.56
+642,coumesterol,BDNF_HUMAN,16433.22
+643,lysophosphatidylcholine,BDNF_HUMAN,16478.75
+644,7-keto-dehydroepiandrosterone acetate,BDNF_HUMAN,16491.78
+645,g63,BDNF_HUMAN,16501.88
+646,norepinephrine,BDNF_HUMAN,16505.90
+647,bergamottin,BDNF_HUMAN,16555.28
+648,magnolol,BDNF_HUMAN,16694.85
+649,vitamin b-6,BDNF_HUMAN,16724.87
+650,hydroxyapatite,BDNF_HUMAN,16759.95
+651,gs4,BDNF_HUMAN,16915.13
+652,nisin,BDNF_HUMAN,16975.81
+653,glucuronic acid,BDNF_HUMAN,17062.23
+654,amylopectin,BDNF_HUMAN,17076.38
+655,monomagnesium di-l-aspartate,BDNF_HUMAN,17090.22
+656,amentoflavone,BDNF_HUMAN,17159.81
+657,arginine ethyl ester dihydrochloride,BDNF_HUMAN,17176.53
+658,gkc,BDNF_HUMAN,17268.68
+659,propionyl-l-carnitine,BDNF_HUMAN,17364.84
+660,ornithine alpha-ketoglutarate,BDNF_HUMAN,17368.83
+661,pinocembrin,BDNF_HUMAN,17477.08
+662,nicotinamide riboside chloride,BDNF_HUMAN,17550.78
+663,humic acid,BDNF_HUMAN,17764.66
+664,halostachine,BDNF_HUMAN,17981.31
+665,monosodium l-glutamate,BDNF_HUMAN,17997.42
+666,docusate sodium,BDNF_HUMAN,18110.62
+667,eugenol,BDNF_HUMAN,18243.32
+668,omega-3,BDNF_HUMAN,18309.51
+669,tricreatine citrate,BDNF_HUMAN,18342.08
+670,galactomannan,BDNF_HUMAN,18395.84
+671,potassium d-glucarate,BDNF_HUMAN,18444.12
+672,bismuth nitrate,BDNF_HUMAN,18477.28
+673,sodium carboxymethyl cellulose,BDNF_HUMAN,18499.78
+674,niacinamide ascorbate,BDNF_HUMAN,18527.59
+675,raspberry ketone,BDNF_HUMAN,18570.50
+676,naringenin,BDNF_HUMAN,18679.59
+677,flavanone,BDNF_HUMAN,18711.33
+678,zingerone,BDNF_HUMAN,18712.21
+679,ethyl linoleate,BDNF_HUMAN,18782.28
+680,7-methoxy-2-phenyl-chromen-4-one,BDNF_HUMAN,18884.60
+681,magnesium lysinate,BDNF_HUMAN,18901.13
+682,silymarin,BDNF_HUMAN,18923.33
+683,magnesium creatine,BDNF_HUMAN,18932.48
+684,arjunic acid,BDNF_HUMAN,18983.79
+685,l-ergothioneine,BDNF_HUMAN,19194.83
+686,chondroitin sulfate b,BDNF_HUMAN,19258.67
+687,galactooligosaccharide,BDNF_HUMAN,19275.64
+688,n-coumaroyldopamine,BDNF_HUMAN,19323.62
+689,citrus,BDNF_HUMAN,19338.60
+690,ferrochel,BDNF_HUMAN,19469.61
+691,fenchol,BDNF_HUMAN,19575.63
+692,apigenin-7-o-glucoside,BDNF_HUMAN,19593.74
+693,glucosamine sulfate,BDNF_HUMAN,19600.31
+694,2'-fucosyllactose,BDNF_HUMAN,19630.26
+695,eurycomanone,BDNF_HUMAN,19835.31
+696,arginine nitrate,BDNF_HUMAN,19907.25
+697,coumestrol dimethyl ether,BDNF_HUMAN,19932.76
+698,pangamic acid,BDNF_HUMAN,19939.45
+699,methylliberine,BDNF_HUMAN,19956.64
+700,nefiracetam,BDNF_HUMAN,20006.37
+701,maltodextrin,BDNF_HUMAN,20190.36
+702,caryophyllene oxide,BDNF_HUMAN,20242.77
+703,dicreatine citrate,BDNF_HUMAN,20247.23
+704,magnesium stearate,BDNF_HUMAN,20354.02
+705,n-acetylglucosamine,BDNF_HUMAN,20391.87
+706,androstenolone acetate,BDNF_HUMAN,20451.54
+707,5'-ump,BDNF_HUMAN,20476.92
+708,d-glucosamine sulfate,BDNF_HUMAN,20494.26
+709,vanilla flavor,BDNF_HUMAN,20515.20
+710,nicotinamide riboside,BDNF_HUMAN,20539.09
+711,magnesium-l-threonate,BDNF_HUMAN,20585.91
+712,casein hydrolysate,BDNF_HUMAN,20592.80
+713,5-methoxytryptamine hcl,BDNF_HUMAN,20623.17
+714,mucolase,BDNF_HUMAN,20637.49
+715,taurine alpha-ketoglutarate,BDNF_HUMAN,20676.67
+716,n-methyltyramine,BDNF_HUMAN,20730.69
+717,boldo,BDNF_HUMAN,20774.71
+718,puerarin,BDNF_HUMAN,20933.67
+719,potassium sorbate,BDNF_HUMAN,20973.94
+720,gamma-butyrobetaine,BDNF_HUMAN,21049.49
+721,piracetam,BDNF_HUMAN,21085.50
+722,sodium hexametaphosphate,BDNF_HUMAN,21112.88
+723,campestanol,BDNF_HUMAN,21136.46
+724,artesunate,BDNF_HUMAN,21268.94
+725,magnesium glycinate,BDNF_HUMAN,21300.34
+726,choline dihydrogen citrate,BDNF_HUMAN,21316.92
+727,magnesium salicylate,BDNF_HUMAN,21370.57
+728,mono ethyl fumarate,BDNF_HUMAN,21385.80
+729,potassium bicarbonate,BDNF_HUMAN,21488.17
+730,glycine propionyl-l-carnitine,BDNF_HUMAN,21589.83
+731,potassium phosphate,BDNF_HUMAN,21641.93
+732,pinolenic acid,BDNF_HUMAN,21647.70
+733,bismuth subnitrate,BDNF_HUMAN,21741.10
+734,manganese gluconate,BDNF_HUMAN,21755.53
+735,genistein,BDNF_HUMAN,21864.50
+736,moranoline,BDNF_HUMAN,21865.56
+737,zinc-carnosine,BDNF_HUMAN,22005.06
+738,diosmin,BDNF_HUMAN,22038.13
+739,l-ornithine alpha-ketoglutarate,BDNF_HUMAN,22106.88
+740,uridine,BDNF_HUMAN,22144.80
+741,l-leucine ethyl ester hydrochloride,BDNF_HUMAN,22297.39
+742,monoammonium glycyrrhizinate,BDNF_HUMAN,22324.96
+743,chitosan,BDNF_HUMAN,22350.86
+744,eleutheroside e,BDNF_HUMAN,22351.45
+745,calcium alpha-ketoglutarate,BDNF_HUMAN,22408.32
+746,glucosamine sulfate potassium chloride,BDNF_HUMAN,22435.84
+747,honokiol,BDNF_HUMAN,22445.74
+748,copper sulfate pentahydrate,BDNF_HUMAN,22527.34
+749,cytidine 5'-monophosphate disodium salt,BDNF_HUMAN,22631.05
+750,docusate calcium,BDNF_HUMAN,22645.87
+751,calcium undecylenate,BDNF_HUMAN,22860.25
+752,potassium caprylate,BDNF_HUMAN,22913.28
+753,rutaecarpine,BDNF_HUMAN,22996.83
+754,stearidonic acid,BDNF_HUMAN,23053.25
+755,heneicosapentaenoic acid,BDNF_HUMAN,23143.78
+756,neurosyn,BDNF_HUMAN,23202.25
+757,soy isoflavones,BDNF_HUMAN,23263.12
+758,theobromine hydrochloride,BDNF_HUMAN,23276.02
+759,tryptamine,BDNF_HUMAN,23436.10
+760,myrcene,BDNF_HUMAN,23468.01
+761,acetyl-l-carnitine hydrochloride,BDNF_HUMAN,23495.71
+762,kelp,BDNF_HUMAN,23529.11
+763,androsta 3;5-diene-7;17-dione,BDNF_HUMAN,23592.61
+764,n-phenethyldimethylamine,BDNF_HUMAN,23641.05
+765,copper chlorophyllin,BDNF_HUMAN,23704.89
+766,cetyl palmitoleate,BDNF_HUMAN,23810.50
+767,neoeriocitrin,BDNF_HUMAN,23838.41
+768,mercurius solubilis,BDNF_HUMAN,23880.65
+769,l-carnitine,BDNF_HUMAN,23883.96
+770,l-valine ethyl ester hydrochloride,BDNF_HUMAN,24215.07
+771,6am,BDNF_HUMAN,24287.18
+772,calcium octanoate,BDNF_HUMAN,24306.11
+773,acetylcystine,BDNF_HUMAN,24346.60
+774,zinc succinate,BDNF_HUMAN,24377.15
+775,n-caffeoyldopamine,BDNF_HUMAN,24449.46
+776,l-carnitine tartrate,BDNF_HUMAN,24495.75
+777,monopotassium aspartate,BDNF_HUMAN,24528.81
+778,zinc malate,BDNF_HUMAN,24540.67
+779,beta-pinene,BDNF_HUMAN,24587.32
+780,citrulline nitrate,BDNF_HUMAN,24639.24
+781,panthenol,BDNF_HUMAN,24641.78
+782,l-aspartamine,BDNF_HUMAN,24719.60
+783,tetrasodium diphosphate,BDNF_HUMAN,24743.07
+784,ajoene,BDNF_HUMAN,24747.64
+785,magnesium ascorbate,BDNF_HUMAN,24784.08
+786,5-methyl-7-methoxyflavone,BDNF_HUMAN,24804.49
+787,calcium succinate,BDNF_HUMAN,24873.44
+788,melitidin,BDNF_HUMAN,24887.21
+789,vanadyl acetylacetonate,BDNF_HUMAN,24911.31
+790,theobromine,BDNF_HUMAN,25031.69
+791,sclareolide,BDNF_HUMAN,25057.42
+792,arginine ethyl ester hydrochloride,BDNF_HUMAN,25097.66
+793,tripotassium phosphate,BDNF_HUMAN,25154.34
+794,calcium malate,BDNF_HUMAN,25170.06
+795,2'-deoxyadenosine,BDNF_HUMAN,25207.53
+796,calcium fructoborate,BDNF_HUMAN,25231.06
+797,7-methoxy-5-methyl-3-phenyl-chromen-4-one,BDNF_HUMAN,25341.21
+798,pqq,BDNF_HUMAN,25448.71
+799,malt,BDNF_HUMAN,25478.07
+800,brindall berry,BDNF_HUMAN,25578.76
+801,p-coumaric acid,BDNF_HUMAN,25617.86
+802,aegeline,BDNF_HUMAN,25643.78
+803,magnesium arginate,BDNF_HUMAN,25652.26
+804,n-methyl-beta-phenylethylamine,BDNF_HUMAN,25701.51
+805,neohesperidin,BDNF_HUMAN,25786.92
+806,geraniol,BDNF_HUMAN,25794.59
+807,l-valine ethyl ester,BDNF_HUMAN,25852.38
+808,magnesium citrate,BDNF_HUMAN,25895.40
+809,pantothenic acid,BDNF_HUMAN,25947.64
+810,alpha-chymotrypsin,BDNF_HUMAN,25957.24
+811,eicosapentaenoic acid,BDNF_HUMAN,25989.97
+812,strontium citrate,BDNF_HUMAN,26054.82
+813,daidzein,BDNF_HUMAN,26061.02
+814,glycine propionyl l-carnitine hydrochloride,BDNF_HUMAN,26111.19
+815,magnesium acetyl-taurate,BDNF_HUMAN,26285.24
+816,sodium glucuronate,BDNF_HUMAN,26527.31
+817,manganese citrate,BDNF_HUMAN,26542.64
+818,cytidine,BDNF_HUMAN,26707.48
+819,mangostin,BDNF_HUMAN,26727.22
+820,eds,BDNF_HUMAN,26755.76
+821,arabinogalactan,BDNF_HUMAN,26810.09
+822,shikimic acid,BDNF_HUMAN,26918.77
+823,clinoptilolite,BDNF_HUMAN,26983.94
+824,citicoline sodium,BDNF_HUMAN,27135.48
+825,inosine,BDNF_HUMAN,27192.08
+826,rhododendrol,BDNF_HUMAN,27282.97
+827,3-phenyllactic acid,BDNF_HUMAN,27347.08
+828,tetradecylthioacetic acid,BDNF_HUMAN,27365.98
+829,s4,BDNF_HUMAN,27384.77
+830,lithium citrate,BDNF_HUMAN,27610.21
+831,creatine orotate,BDNF_HUMAN,27805.00
+832,defender,BDNF_HUMAN,27842.14
+833,dicalcium phosphate,BDNF_HUMAN,27842.56
+834,pyridoxine alpha ketoglutarate,BDNF_HUMAN,27842.71
+835,calcium butyrate,BDNF_HUMAN,27977.00
+836,calcium beta-hydroxy beta-methylbutyrate,BDNF_HUMAN,28021.49
+837,acetyl l-carnitine taurinate,BDNF_HUMAN,28160.02
+838,tripotassium citrate,BDNF_HUMAN,28243.60
+839,docosahexaenoic acid,BDNF_HUMAN,28357.03
+840,bismuth citrate,BDNF_HUMAN,28363.53
+841,hordenine hcl,BDNF_HUMAN,28594.96
+842,magnesium potassium citrate,BDNF_HUMAN,28693.26
+843,l-glutamine hydrochloride,BDNF_HUMAN,28746.36
+844,octopamine hcl,BDNF_HUMAN,28765.16
+845,potassium citrate,BDNF_HUMAN,28769.47
+846,ferric phosphate,BDNF_HUMAN,28779.78
+847,s-adenosyl-l-methionine disulfate tosylate,BDNF_HUMAN,28850.31
+848,potassium-magnesium citrate,BDNF_HUMAN,28871.10
+849,5-methoxytryptamine,BDNF_HUMAN,28887.70
+850,creatinol-o-phosphate,BDNF_HUMAN,29021.30
+851,ibotenic acid,BDNF_HUMAN,29077.16
+852,cannabivarin,BDNF_HUMAN,29181.53
+853,artemether,BDNF_HUMAN,29312.04
+854,3;5 diiodo-l-tyrosine dihydrate,BDNF_HUMAN,29336.04
+855,stibnite,BDNF_HUMAN,29428.14
+856,linolenic acid,BDNF_HUMAN,29593.90
+857,strontium carbonate,BDNF_HUMAN,29781.89
+858,vitamin u,BDNF_HUMAN,29791.29
+859,carthamus,BDNF_HUMAN,29835.72
+860,d-glucosamine sulfate 2kcl,BDNF_HUMAN,29890.41
+861,epsom salt,BDNF_HUMAN,29907.62
+862,magnesium bicarbonate,BDNF_HUMAN,30024.27
+863,bile,BDNF_HUMAN,30035.06
+864,formononetin,BDNF_HUMAN,30141.25
+865,benzoin,BDNF_HUMAN,30386.02
+866,calcium hydroxycitrate,BDNF_HUMAN,30447.33
+867,desoxyrhaponticin,BDNF_HUMAN,30448.65
+868,cetyl oleate,BDNF_HUMAN,30506.09
+869,dextran,BDNF_HUMAN,30564.21
+870,biopterin,BDNF_HUMAN,30590.20
+871,potassium malate,BDNF_HUMAN,30684.55
+872,r-lipoic acid,BDNF_HUMAN,30884.64
+873,bioperine,BDNF_HUMAN,30980.29
+874,cetyl caprate,BDNF_HUMAN,30993.10
+875,melatonin,BDNF_HUMAN,31072.29
+876,l-isoleucine ethyl ester,BDNF_HUMAN,31186.97
+877,6-ketoprogesterone,BDNF_HUMAN,31243.16
+878,edta calcium disodium,BDNF_HUMAN,31344.42
+879,calcium beta-hydroxy-beta-methylbutyrate monohydrate,BDNF_HUMAN,31422.14
+880,thymoquinone,BDNF_HUMAN,31496.41
+881,sodium aluminosilicate,BDNF_HUMAN,31533.70
+882,manganese lactate,BDNF_HUMAN,31538.84
+883,eleutheroside b,BDNF_HUMAN,31654.71
+884,salicin,BDNF_HUMAN,31672.29
+885,india,BDNF_HUMAN,31673.21
+886,pullulanase,BDNF_HUMAN,31704.94
+887,molybdenum ascorbate,BDNF_HUMAN,31714.31
+888,ptc,BDNF_HUMAN,31992.24
+889,clay,BDNF_HUMAN,32149.38
+890,iron citrate,BDNF_HUMAN,32292.69
+891,beta-fructofuranosidase,BDNF_HUMAN,32309.36
+892,molybdenum citrate,BDNF_HUMAN,32541.70
+893,calcium bicarbonate,BDNF_HUMAN,32620.18
+894,glycyrrhizin,BDNF_HUMAN,32848.78
+895,sodium gluconate,BDNF_HUMAN,33096.98
+896,isoleucyl-prolyl-proline,BDNF_HUMAN,33150.47
+897,ferric glycinate,BDNF_HUMAN,33175.79
+898,4-amino-3-phenylbutyric acid,BDNF_HUMAN,33278.50
+899,dolomite,BDNF_HUMAN,33446.54
+900,n-acetyl-l-carnosine,BDNF_HUMAN,33601.35
+901,fructooligosaccharides,BDNF_HUMAN,33640.08
+902,eicosatrienoic acid,BDNF_HUMAN,33656.24
+903,ketoisocaproate potassium,BDNF_HUMAN,33678.51
+904,calcium gluconate,BDNF_HUMAN,33728.25
+905,n-acetyl-l-tyrosine-ethyl ester monohydrate,BDNF_HUMAN,33912.62
+906,3-5-diiodo-l-tyrosine,BDNF_HUMAN,33963.41
+907,dha,BDNF_HUMAN,34017.78
+908,palmitoleic acid ethyl ester,BDNF_HUMAN,34103.26
+909,2'-deoxycytidine,BDNF_HUMAN,34120.15
+910,dicalcium phosphate dihydrate,BDNF_HUMAN,34250.52
+911,withaferin a,BDNF_HUMAN,34320.89
+912,lysophosphatidic acid,BDNF_HUMAN,34383.22
+913,arginine akg,BDNF_HUMAN,34579.84
+914,zinc citrate dihydrate,BDNF_HUMAN,34672.70
+915,glycerophosphatidylethanolamine,BDNF_HUMAN,34768.99
+916,vanadyl sulfate pentahydrate,BDNF_HUMAN,35146.12
+917,pyridoxal alpha-ketoglutarate,BDNF_HUMAN,35153.87
+918,sodium benzoate,BDNF_HUMAN,35235.62
+919,potassium beta-hydroxybutyrate,BDNF_HUMAN,35237.32
+920,manganese glycinate,BDNF_HUMAN,35258.38
+921,potassium gluconate,BDNF_HUMAN,35336.28
+922,neo-vestitol,BDNF_HUMAN,35385.49
+923,adenine,BDNF_HUMAN,35393.15
+924,sodium d-aspartic acid,BDNF_HUMAN,35532.98
+925,thymidine,BDNF_HUMAN,35556.78
+926,ferrous bisglycinate,BDNF_HUMAN,35621.03
+927,ketoisocaproic acid calcium,BDNF_HUMAN,35833.06
+928,mustard,BDNF_HUMAN,35836.08
+929,ammonium succinate,BDNF_HUMAN,35850.31
+930,talc,BDNF_HUMAN,35869.57
+931,sodium metabisulfite,BDNF_HUMAN,35950.57
+932,n-hydroxy-nor-l-arginine,BDNF_HUMAN,36055.96
+933,magnesium taurinate,BDNF_HUMAN,36262.78
+934,calcium lactate,BDNF_HUMAN,36327.78
+935,n-carbamylglutamate,BDNF_HUMAN,36460.91
+936,pfbc,BDNF_HUMAN,36589.65
+937,zinc chelazome,BDNF_HUMAN,36865.81
+938,calcium phosphate,BDNF_HUMAN,36891.25
+939,sodium succinate,BDNF_HUMAN,36897.42
+940,k-2,BDNF_HUMAN,36920.48
+941,alpha ketoglutaric acid,BDNF_HUMAN,36974.34
+942,phenylpiracetam,BDNF_HUMAN,36988.71
+943,magnesia phosphorica,BDNF_HUMAN,37049.58
+944,menthol,BDNF_HUMAN,37101.04
+945,2(s)-amino-6-boronohexanoic acid,BDNF_HUMAN,37325.58
+946,zinc l-aspartate,BDNF_HUMAN,37328.54
+947,paba,BDNF_HUMAN,37486.63
+948,chromium citrate,BDNF_HUMAN,37550.75
+949,salvianolic acid,BDNF_HUMAN,37607.64
+950,potassium nitrate,BDNF_HUMAN,37676.28
+951,creatine akg,BDNF_HUMAN,37679.07
+952,monocalcium phosphate,BDNF_HUMAN,37704.54
+953,calcium beta-hydroxybutyrate,BDNF_HUMAN,37746.19
+954,l-glycyl-l-glutamine,BDNF_HUMAN,38122.00
+955,calcium ascorbate dihydrate,BDNF_HUMAN,38199.78
+956,acesulfame potassium,BDNF_HUMAN,38207.37
+957,l-cysteine,BDNF_HUMAN,38330.26
+958,sodium citrate,BDNF_HUMAN,38368.32
+959,calcium gluconate monohydrate,BDNF_HUMAN,38377.61
+960,ig,BDNF_HUMAN,38480.00
+961,nem,BDNF_HUMAN,38564.33
+962,bht,BDNF_HUMAN,38588.80
+963,allicin,BDNF_HUMAN,38713.05
+964,glucosamine hydrochloride,BDNF_HUMAN,38925.98
+965,vanadium citrate,BDNF_HUMAN,38988.05
+966,sodium selenite,BDNF_HUMAN,39148.98
+967,zinc aspartate,BDNF_HUMAN,39183.62
+968,potassium glycerophosphate,BDNF_HUMAN,39395.27
+969,l-histidine hydrochloride monohydrate,BDNF_HUMAN,39413.35
+970,calcium ascorbate,BDNF_HUMAN,39436.00
+971,cupric sulfate,BDNF_HUMAN,39574.54
+972,cinnamaldehyde,BDNF_HUMAN,39592.26
+973,edta,BDNF_HUMAN,39605.41
+974,ammonium phosphate,BDNF_HUMAN,39678.90
+975,nickel sulphate,BDNF_HUMAN,39776.89
+976,sweet clover,BDNF_HUMAN,40067.03
+977,branched chain amino acids,BDNF_HUMAN,40077.84
+978,calcium lysinate,BDNF_HUMAN,40297.25
+979,eugenia caryophyllata,BDNF_HUMAN,40510.62
+980,trehalose,BDNF_HUMAN,40591.95
+981,calcium citrate,BDNF_HUMAN,40623.94
+982,medina,BDNF_HUMAN,40628.11
+983,tyramine hcl,BDNF_HUMAN,40838.07
+984,sodium tetraborate,BDNF_HUMAN,40842.47
+985,potassium orotate,BDNF_HUMAN,40873.84
+986,vestitol,BDNF_HUMAN,40892.61
+987,cgf,BDNF_HUMAN,40926.16
+988,sterols,BDNF_HUMAN,41085.14
+989,equol,BDNF_HUMAN,41197.94
+990,oleamide,BDNF_HUMAN,41372.30
+991,glucuronolactone,BDNF_HUMAN,41420.77
+992,oxymatrine,BDNF_HUMAN,41424.35
+993,disodium adenosine 5'-phosphate,BDNF_HUMAN,41607.11
+994,sodium succinate dibasic hexahydrate,BDNF_HUMAN,41925.92
+995,monosodium phosphate anhydrous,BDNF_HUMAN,41930.32
+996,citrate,BDNF_HUMAN,42054.00
+997,mct,BDNF_HUMAN,42199.56
+998,rhaponticin,BDNF_HUMAN,42391.10
+999,beta-methylphenylethylamine hcl,BDNF_HUMAN,42663.49
+1000,magnesium taurate,BDNF_HUMAN,42755.73
+1001,hordenine,BDNF_HUMAN,42778.65
+1002,glycyrrhetinic acid,BDNF_HUMAN,42816.14
+1003,creatine malate,BDNF_HUMAN,43214.64
+1004,naringin,BDNF_HUMAN,43236.85
+1005,sodium caprylate,BDNF_HUMAN,43694.13
+1006,silver nitrate,BDNF_HUMAN,43835.81
+1007,artepillin c,BDNF_HUMAN,43858.88
+1008,manganese sulfate monohydrate,BDNF_HUMAN,43889.40
+1009,histidine hydrochloride,BDNF_HUMAN,44025.52
+1010,l-histidine hcl,BDNF_HUMAN,44107.62
+1011,propionyl-l-carnitine hcl,BDNF_HUMAN,44435.62
+1012,artemesia,BDNF_HUMAN,44455.68
+1013,sassafras,BDNF_HUMAN,44498.16
+1014,thymol,BDNF_HUMAN,44563.77
+1015,calcium citrate malate,BDNF_HUMAN,44653.58
+1016,sodium caprate,BDNF_HUMAN,44709.10
+1017,hyacinth,BDNF_HUMAN,44754.36
+1018,copper chelate,BDNF_HUMAN,44775.43
+1019,calcium aspartate,BDNF_HUMAN,44871.49
+1020,cape,BDNF_HUMAN,44883.36
+1021,phenalgin,BDNF_HUMAN,44969.25
+1022,chromium ascorbate,BDNF_HUMAN,45107.95
+1023,phosphocreatine,BDNF_HUMAN,45153.02
+1024,magnesium chloride hexahydrate,BDNF_HUMAN,45168.88
+1025,zinc ascorbate,BDNF_HUMAN,45207.23
+1026,pyritinol,BDNF_HUMAN,45245.93
+1027,magnesium glycerophosphate,BDNF_HUMAN,45296.41
+1028,vitamin k,BDNF_HUMAN,45335.59
+1029,2-amino-6-methylheptane,BDNF_HUMAN,45378.81
+1030,histidine,BDNF_HUMAN,45500.42
+1031,cetearyl alcohol,BDNF_HUMAN,45647.00
+1032,10-hydroxy-2-decenoic acid,BDNF_HUMAN,45689.30
+1033,sodium borate,BDNF_HUMAN,45782.85
+1034,hesperidin,BDNF_HUMAN,45897.46
+1035,terra alba,BDNF_HUMAN,45930.34
+1036,magnesium l-lactate dihydrate,BDNF_HUMAN,45960.78
+1037,citronellol,BDNF_HUMAN,46136.31
+1038,ferrous fumarate,BDNF_HUMAN,46320.85
+1039,7-methoxyisoflavone,BDNF_HUMAN,46334.70
+1040,methylsynephrine,BDNF_HUMAN,46503.01
+1041,sodium sulfate,BDNF_HUMAN,46576.85
+1042,comfrey,BDNF_HUMAN,46649.75
+1043,disodium phosphate,BDNF_HUMAN,46789.70
+1044,monolaurin,BDNF_HUMAN,46791.12
+1045,niacinamide,BDNF_HUMAN,46845.65
+1046,s-(2-boronoethyl)-l-cysteine,BDNF_HUMAN,46859.67
+1047,calcium d-saccharate tetrahydrate,BDNF_HUMAN,46949.21
+1048,adenosine,BDNF_HUMAN,46975.77
+1049,sustamine,BDNF_HUMAN,47183.88
+1050,natrii sulfas exsiccatus,BDNF_HUMAN,47259.46
+1051,r-beta-methylphenylethylamine,BDNF_HUMAN,47292.96
+1052,l-carnosine,BDNF_HUMAN,47566.96
+1053,monobasic sodium phosphate monohydrate,BDNF_HUMAN,47590.43
+1054,magnesium silicate,BDNF_HUMAN,47654.17
+1055,icariside ii,BDNF_HUMAN,47665.15
+1056,vitamin b5,BDNF_HUMAN,47882.50
+1057,gamma-linolenic acid,BDNF_HUMAN,47977.72
+1058,sodium bicarbonate,BDNF_HUMAN,48111.10
+1059,glycerol stearate,BDNF_HUMAN,48139.69
+1060,flavonols,BDNF_HUMAN,48345.29
+1061,fasoracetam,BDNF_HUMAN,48464.94
+1062,l-dopa,BDNF_HUMAN,48465.98
+1063,manganese sulfate,BDNF_HUMAN,48579.41
+1064,glycitein,BDNF_HUMAN,48934.58
+1065,glutamine,BDNF_HUMAN,48943.22
+1066,cetyl myristoleate,BDNF_HUMAN,49010.06
+1067,copper glycinate,BDNF_HUMAN,49447.59
+1068,vitamin c,BDNF_HUMAN,49627.20
+1069,glutamic acid hydrochloride,BDNF_HUMAN,49880.95
+1070,manganese carbonate,BDNF_HUMAN,50295.01
+1071,magnesium caprylate,BDNF_HUMAN,50426.53
+1072,pak,BDNF_HUMAN,50508.79
+1073,potassium pyruvate,BDNF_HUMAN,50968.41
+1074,pyridoxine phosphate,BDNF_HUMAN,51055.57
+1075,trisodium phosphate dodecahydrate,BDNF_HUMAN,51059.56
+1076,lithium carbonate,BDNF_HUMAN,51144.41
+1077,manganese chloride,BDNF_HUMAN,51471.84
+1078,sodium nitrate,BDNF_HUMAN,51726.95
+1079,arginine ethyl ester,BDNF_HUMAN,51959.62
+1080,vanadyl sulfate hydrate,BDNF_HUMAN,52042.28
+1081,octanoate,BDNF_HUMAN,52435.40
+1082,sulforaphane glucosinolate,BDNF_HUMAN,52485.04
+1083,lcariin,BDNF_HUMAN,52494.45
+1084,magnesium sulfate,BDNF_HUMAN,52498.06
+1085,magnesium fumarate,BDNF_HUMAN,52610.77
+1086,arbutin,BDNF_HUMAN,52804.27
+1087,cyclic adenosine monophosphate,BDNF_HUMAN,52851.29
+1088,creatine ethyl ester,BDNF_HUMAN,53086.82
+1089,paeoniflorin,BDNF_HUMAN,53260.93
+1090,anserine,BDNF_HUMAN,53315.85
+1091,molybdenum glycinate,BDNF_HUMAN,53394.75
+1092,r-beta-methylphenylethylamine hcl,BDNF_HUMAN,53605.91
+1093,carvacrol,BDNF_HUMAN,53704.13
+1094,n-acetyl l-tyrosine,BDNF_HUMAN,53786.50
+1095,citral,BDNF_HUMAN,53792.15
+1096,zinc carnosine,BDNF_HUMAN,53794.73
+1097,eriocitrin,BDNF_HUMAN,53834.76
+1098,syringic acid,BDNF_HUMAN,53876.32
+1099,nitrate,BDNF_HUMAN,53882.23
+1100,glutamine ethyl ester,BDNF_HUMAN,54080.74
+1101,salicylamine acetate,BDNF_HUMAN,54315.78
+1102,iron ascorbate,BDNF_HUMAN,54616.02
+1103,cis-linoleic acid,BDNF_HUMAN,54722.28
+1104,sulforaphane,BDNF_HUMAN,54917.79
+1105,urolithin a,BDNF_HUMAN,55062.11
+1106,l-cysteine hydrochloride,BDNF_HUMAN,55284.06
+1107,bis-glycinate-oxovanadium,BDNF_HUMAN,55402.76
+1108,n-acetylneuraminic acid,BDNF_HUMAN,55431.11
+1109,allulose,BDNF_HUMAN,55503.05
+1110,gamma-butyrobetaine hydrochloride,BDNF_HUMAN,55642.83
+1111,spermidine trihydrochloride,BDNF_HUMAN,55658.27
+1112,tetrahydrocurcumin,BDNF_HUMAN,55778.78
+1113,sodium selenate,BDNF_HUMAN,55840.32
+1114,indole-3-carbinol,BDNF_HUMAN,55955.46
+1115,daidzin,BDNF_HUMAN,56012.71
+1116,beta-hydroxytyramine,BDNF_HUMAN,56071.53
+1117,glycocyamine,BDNF_HUMAN,56565.21
+1118,potassium carbonate,BDNF_HUMAN,56569.39
+1119,palatinose,BDNF_HUMAN,57917.59
+1120,l-lysine aspartate,BDNF_HUMAN,58018.17
+1121,luteolin,BDNF_HUMAN,58174.39
+1122,chromic chloride hexahydrate,BDNF_HUMAN,58547.42
+1123,ascorbyl palmitate,BDNF_HUMAN,58684.89
+1124,sodium molybdate,BDNF_HUMAN,58932.76
+1125,calcium d-glucarate,BDNF_HUMAN,59171.86
+1126,tgf-beta,BDNF_HUMAN,59237.28
+1127,nko,BDNF_HUMAN,59438.32
+1128,calcium carbonate,BDNF_HUMAN,59829.36
+1129,dextrose monohydrate,BDNF_HUMAN,60302.29
+1130,lysine acetate,BDNF_HUMAN,61367.19
+1131,magnesium malate,BDNF_HUMAN,61563.41
+1132,collagenase,BDNF_HUMAN,61910.16
+1133,dimagnesium phosphate,BDNF_HUMAN,62031.61
+1134,bisdemethoxycurcumin,BDNF_HUMAN,62196.18
+1135,magnesium chelate,BDNF_HUMAN,62232.53
+1136,chromic oxide,BDNF_HUMAN,62244.12
+1137,fructose,BDNF_HUMAN,62464.61
+1138,ferrous gluconate,BDNF_HUMAN,62716.66
+1139,trisodium phosphate,BDNF_HUMAN,62757.77
+1140,lithium orotate,BDNF_HUMAN,62850.68
+1141,cla,BDNF_HUMAN,62880.47
+1142,silicate,BDNF_HUMAN,63425.36
+1143,ferulic acid,BDNF_HUMAN,63549.43
+1144,molybdenum chloride,BDNF_HUMAN,63728.10
+1145,glucarate,BDNF_HUMAN,63735.78
+1146,calcium threonate,BDNF_HUMAN,63821.29
+1147,calcium acetate,BDNF_HUMAN,64572.63
+1148,disodium phosphate dihydrate,BDNF_HUMAN,64747.87
+1149,dmsa,BDNF_HUMAN,64960.87
+1150,disodium creatine phosphate tetrahydrate,BDNF_HUMAN,65048.50
+1151,phosphatidylethanolamine,BDNF_HUMAN,65109.62
+1152,taurine hydrochloride,BDNF_HUMAN,65593.52
+1153,creatine taurinate,BDNF_HUMAN,65788.37
+1154,sodium ascorbate,BDNF_HUMAN,66043.13
+1155,iga,BDNF_HUMAN,66146.24
+1156,mucin,BDNF_HUMAN,66168.41
+1157,selenocysteine,BDNF_HUMAN,66460.25
+1158,triethyl citrate,BDNF_HUMAN,66548.12
+1159,l-carnitine hydrochloride,BDNF_HUMAN,66734.16
+1160,inosine phosphate,BDNF_HUMAN,66886.40
+1161,phenethylamine hcl,BDNF_HUMAN,67208.38
+1162,calcium pyruvate,BDNF_HUMAN,67276.22
+1163,cetyl palmitate,BDNF_HUMAN,67676.30
+1164,zinc acetate,BDNF_HUMAN,68290.69
+1165,dried ferrous sulfate,BDNF_HUMAN,68440.34
+1166,tyrosine,BDNF_HUMAN,68724.54
+1167,creatine citrate,BDNF_HUMAN,69277.73
+1168,linoleic acid,BDNF_HUMAN,69336.40
+1169,zma,BDNF_HUMAN,69463.69
+1170,l-isoleucine ethyl ester hydrochloride,BDNF_HUMAN,69757.71
+1171,dihomo-gamma-linolenic acid,BDNF_HUMAN,69840.56
+1172,l-tyrosine hydrochloride,BDNF_HUMAN,69981.17
+1173,cetyl myristate,BDNF_HUMAN,70049.20
+1174,calcium silicate,BDNF_HUMAN,70095.43
+1175,genistin,BDNF_HUMAN,70154.72
+1176,rue,BDNF_HUMAN,70323.91
+1177,(-)-hydroxycitric acid,BDNF_HUMAN,70479.31
+1178,magnesium lactate,BDNF_HUMAN,70725.76
+1179,calcium borogluconate,BDNF_HUMAN,70945.45
+1180,troxerutin,BDNF_HUMAN,70972.67
+1181,sodium beta-hydroxybutyrate,BDNF_HUMAN,71283.10
+1182,acid phosphatase,BDNF_HUMAN,71839.37
+1183,magnesium butyrate,BDNF_HUMAN,73661.82
+1184,aminopeptidase n,BDNF_HUMAN,73972.14
+1185,gluconic acid,BDNF_HUMAN,74164.35
+1186,2-hoba,BDNF_HUMAN,74532.19
+1187,sulfato de potasio,BDNF_HUMAN,74712.75
+1188,boron citrate,BDNF_HUMAN,74823.39
+1189,deanol p-acetamidobenzoate,BDNF_HUMAN,74903.98
+1190,glycerophosphocholine,BDNF_HUMAN,75052.80
+1191,eicosadienoic acid,BDNF_HUMAN,75354.83
+1192,sodium tetrachloroaurate,BDNF_HUMAN,76113.46
+1193,chromate,BDNF_HUMAN,76224.31
+1194,zinc sulfate monohydrate,BDNF_HUMAN,76273.56
+1195,d-limonene,BDNF_HUMAN,76628.79
+1196,idebenone,BDNF_HUMAN,77428.87
+1197,umckalin,BDNF_HUMAN,78065.18
+1198,vx1,BDNF_HUMAN,78351.86
+1199,hydrogen citrate,BDNF_HUMAN,79500.18
+1200,succinate,BDNF_HUMAN,79775.61
+1201,calcium glycinate,BDNF_HUMAN,80038.93
+1202,sodium carbonate,BDNF_HUMAN,80052.54
+1203,demethoxycurcumin,BDNF_HUMAN,80105.58
+1204,dimethylbutylamine,BDNF_HUMAN,81102.61
+1205,zinc sulfate heptahydrate,BDNF_HUMAN,81475.68
+1206,l-ornithine l-aspartate,BDNF_HUMAN,81723.77
+1207,arabic gum,BDNF_HUMAN,81939.71
+1208,l-tartrate,BDNF_HUMAN,82091.69
+1209,alpha-terpineol,BDNF_HUMAN,82180.95
+1210,4-hydroxyisoleucine,BDNF_HUMAN,82255.85
+1211,selenium citrate,BDNF_HUMAN,82521.25
+1212,quinic acid,BDNF_HUMAN,82644.09
+1213,didymin,BDNF_HUMAN,82811.43
+1214,nonacosanol,BDNF_HUMAN,82854.47
+1215,octacosanol,BDNF_HUMAN,82854.58
+1216,hesperidin methyl chalcone,BDNF_HUMAN,83257.93
+1217,tetratriacontanol,BDNF_HUMAN,83369.31
+1218,tetracosanol,BDNF_HUMAN,83506.10
+1219,hexacosanol,BDNF_HUMAN,84600.40
+1220,methylhexaneamine,BDNF_HUMAN,84709.88
+1221,alpha-ketoglutarate,BDNF_HUMAN,84714.69
+1222,l-phenylalanine hydrochloride,BDNF_HUMAN,84886.04
+1223,germanium sesquioxide,BDNF_HUMAN,84955.80
+1224,eicosanol,BDNF_HUMAN,85240.49
+1225,tyramine,BDNF_HUMAN,85423.65
+1226,guanidinopropionic acid,BDNF_HUMAN,85446.06
+1227,4-methyl-2-pyridinamine,BDNF_HUMAN,85709.37
+1228,calcium lactate gluconate,BDNF_HUMAN,85828.23
+1229,dotriacontanol,BDNF_HUMAN,86067.45
+1230,pyroglutamic acid,BDNF_HUMAN,86533.35
+1231,malate,BDNF_HUMAN,86593.03
+1232,iron fumarate,BDNF_HUMAN,87505.19
+1233,citronella,BDNF_HUMAN,87559.89
+1234,iron aspartate,BDNF_HUMAN,87774.98
+1235,dicaffeoylquinic acid,BDNF_HUMAN,88282.06
+1236,chromium propionate,BDNF_HUMAN,88377.42
+1237,beta-alanine ethyl ester hydrochloride,BDNF_HUMAN,88450.70
+1238,zinc gluconate dihydrate,BDNF_HUMAN,88910.27
+1239,curcumin,BDNF_HUMAN,89035.05
+1240,chromium chloride,BDNF_HUMAN,89210.86
+1241,copper sebacate,BDNF_HUMAN,89426.89
+1242,dopamine,BDNF_HUMAN,89640.90
+1243,icariin,BDNF_HUMAN,89764.15
+1244,cetyl laurate,BDNF_HUMAN,90049.58
+1245,cobaltous sulfate,BDNF_HUMAN,90216.40
+1246,gallic acid,BDNF_HUMAN,90229.87
+1247,triacontanol,BDNF_HUMAN,90487.09
+1248,magnesium aspartate,BDNF_HUMAN,90541.81
+1249,glutamic acid,BDNF_HUMAN,90997.44
+1250,dimethyl amino ethanol,BDNF_HUMAN,91067.62
+1251,palmitic acid; stearic acid,BDNF_HUMAN,91096.56
+1252,narirutin,BDNF_HUMAN,91143.32
+1253,ficin,BDNF_HUMAN,91716.43
+1254,methylsulfonylmethane,BDNF_HUMAN,91781.04
+1255,lactate,BDNF_HUMAN,92356.78
+1256,hydroxytyrosol,BDNF_HUMAN,92591.92
+1257,isoleucine,BDNF_HUMAN,93000.55
+1258,glucono delta lactone,BDNF_HUMAN,93298.50
+1259,potassium iodide,BDNF_HUMAN,93553.54
+1260,magnesium succinate,BDNF_HUMAN,93977.16
+1261,r-dihydrolipoic acid,BDNF_HUMAN,94179.58
+1262,coral,BDNF_HUMAN,94792.19
+1263,titanium dioxide,BDNF_HUMAN,94821.55
+1264,cns,BDNF_HUMAN,94833.61
+1265,thiamine mononitrate,BDNF_HUMAN,95210.47
+1266,4-amp,BDNF_HUMAN,95679.79
+1267,calcium glycerophosphate,BDNF_HUMAN,95694.75
+1268,potassium hydroxide,BDNF_HUMAN,95774.39
+1269,valine,BDNF_HUMAN,95798.90
+1270,calcium propionate,BDNF_HUMAN,95903.17
+1271,zinc gluconate,BDNF_HUMAN,96164.89
+1272,octanol,BDNF_HUMAN,96421.88
+1273,ocimene,BDNF_HUMAN,96521.71
+1274,pyrite,BDNF_HUMAN,96600.03
+1275,stearic acid,BDNF_HUMAN,97393.25
+1276,behenic acid,BDNF_HUMAN,97394.52
+1277,lignoceric acid,BDNF_HUMAN,97507.43
+1278,psyllium,BDNF_HUMAN,97583.80
+1279,pyridoxine hydrochloride,BDNF_HUMAN,97673.42
+1280,fat,BDNF_HUMAN,98163.07
+1281,boron glycinate,BDNF_HUMAN,98212.95
+1282,l-cysteine dihydrochloride,BDNF_HUMAN,98500.54
+1283,myristic acid,BDNF_HUMAN,98523.85
+1284,r-600,BDNF_HUMAN,99057.49
+1285,phenylalanine,BDNF_HUMAN,99409.88
+1286,l-tyrosine ethyl ester hydrochloride,BDNF_HUMAN,99563.51
+1287,lauric acid,BDNF_HUMAN,99812.07
+1288,bcaa,BDNF_HUMAN,100004.88
+1289,eicosanoic acid,BDNF_HUMAN,100306.89
+1290,fumaric acid,BDNF_HUMAN,100608.45
+1291,sodium iodide,BDNF_HUMAN,101154.43
+1292,formic acid,BDNF_HUMAN,101308.27
+1293,l-lysine hydrochloride,BDNF_HUMAN,101971.10
+1294,beta-hydroxybutyrate,BDNF_HUMAN,102160.32
+1295,pf5,BDNF_HUMAN,102706.95
+1296,oxovanadium,BDNF_HUMAN,102715.81
+1297,carbogen,BDNF_HUMAN,103302.85
+1298,beta-phenylethylamine,BDNF_HUMAN,103436.42
+1299,zinc citrate,BDNF_HUMAN,103620.80
+1300,rosavins,BDNF_HUMAN,103772.48
+1301,d-ribose,BDNF_HUMAN,104762.54
+1302,fumarate,BDNF_HUMAN,105009.69
+1303,strontium chloride,BDNF_HUMAN,105262.34
+1304,cystine,BDNF_HUMAN,105383.82
+1305,xanthohumol,BDNF_HUMAN,105689.56
+1306,soluble fiber,BDNF_HUMAN,105938.35
+1307,caffeic acid,BDNF_HUMAN,106069.80
+1308,cobalt,BDNF_HUMAN,106566.11
+1309,pectin,BDNF_HUMAN,106583.21
+1310,camphor,BDNF_HUMAN,106757.96
+1311,gb,BDNF_HUMAN,107097.90
+1312,lactic acid,BDNF_HUMAN,107122.03
+1313,serine,BDNF_HUMAN,107232.04
+1314,vitamin b6,BDNF_HUMAN,107427.51
+1315,conjugated linoleic acid,BDNF_HUMAN,107631.19
+1316,l-leucine ethyl ester,BDNF_HUMAN,107788.55
+1317,potassium chlorite,BDNF_HUMAN,107862.61
+1318,ammonium carbonate,BDNF_HUMAN,108389.04
+1319,propol,BDNF_HUMAN,108538.28
+1320,homotaurine,BDNF_HUMAN,109878.27
+1321,amino nitrogen,BDNF_HUMAN,110019.99
+1322,potassium bitartrate,BDNF_HUMAN,110053.77
+1323,citric acid,BDNF_HUMAN,110270.89
+1324,iodine,BDNF_HUMAN,110581.14
+1325,sodium pyruvate,BDNF_HUMAN,110858.59
+1326,vanadium sulfate,BDNF_HUMAN,111270.05
+1327,bicarbonates,BDNF_HUMAN,111358.96
+1328,aet,BDNF_HUMAN,111734.27
+1329,fluoride,BDNF_HUMAN,111855.89
+1330,l-tyrosine ethyl ester,BDNF_HUMAN,112319.44
+1331,beta-alanine nitrate,BDNF_HUMAN,112397.66
+1332,dmae bitartrate,BDNF_HUMAN,113147.61
+1333,silicic acid,BDNF_HUMAN,113154.04
+1334,leptin,BDNF_HUMAN,113427.60
+1335,vanadyl,BDNF_HUMAN,113619.75
+1336,bornite,BDNF_HUMAN,113675.37
+1337,ethanolamine phosphate,BDNF_HUMAN,113929.48
+1338,azelaic acid,BDNF_HUMAN,114094.38
+1339,malic acid,BDNF_HUMAN,114576.95
+1340,calcium iodate,BDNF_HUMAN,114602.32
+1341,fluorine,BDNF_HUMAN,116059.32
+1342,ethyl lactate,BDNF_HUMAN,116545.10
+1343,sodium butyrate,BDNF_HUMAN,116552.84
+1344,iodide,BDNF_HUMAN,116907.35
+1345,dimethylsulfoxide,BDNF_HUMAN,117464.66
+1346,baryta iodata,BDNF_HUMAN,117508.96
+1347,dmae,BDNF_HUMAN,117857.92
+1348,oxiracetam,BDNF_HUMAN,118131.00
+1349,choline chloride,BDNF_HUMAN,118908.58
+1350,europium,BDNF_HUMAN,118924.49
+1351,sulfate,BDNF_HUMAN,119170.37
+1352,cynarin,BDNF_HUMAN,120472.62
+1353,beta-alanine hcl,BDNF_HUMAN,121234.85
+1354,ige,BDNF_HUMAN,121361.82
+1355,alcohol,BDNF_HUMAN,121497.38
+1356,n-methyl-d-aspartate,BDNF_HUMAN,122231.77
+1357,isomalt,BDNF_HUMAN,122467.62
+1358,beta-alanine ethyl ester,BDNF_HUMAN,122522.58
+1359,sulfur,BDNF_HUMAN,122739.60
+1360,molybdophosphoric acid,BDNF_HUMAN,123071.64
+1361,colloidal silver,BDNF_HUMAN,123824.15
+1362,bromine,BDNF_HUMAN,124643.96
+1363,rosmarinic acid,BDNF_HUMAN,124883.06
+1364,spermidine,BDNF_HUMAN,125005.64
+1365,triethanolamine,BDNF_HUMAN,125172.32
+1366,sodium diacetate,BDNF_HUMAN,126287.87
+1367,threonine,BDNF_HUMAN,126377.71
+1368,potassium chloride,BDNF_HUMAN,127032.71
+1369,chlorine,BDNF_HUMAN,127547.03
+1370,copper oxide,BDNF_HUMAN,127873.31
+1371,eaa,BDNF_HUMAN,128869.00
+1372,bromide,BDNF_HUMAN,128890.50
+1373,l-cysteine hcl monohydrate,BDNF_HUMAN,129378.05
+1374,oxygen,BDNF_HUMAN,129667.10
+1375,phosphates,BDNF_HUMAN,129894.45
+1376,carvone,BDNF_HUMAN,129901.44
+1377,carbamide,BDNF_HUMAN,129911.42
+1378,boron gluconate,BDNF_HUMAN,129994.66
+1379,s-allyl-cysteine,BDNF_HUMAN,130179.60
+1380,sodium glycerophosphate pentahydrate,BDNF_HUMAN,130395.94
+1381,heptacosanol,BDNF_HUMAN,131474.36
+1382,club,BDNF_HUMAN,131625.48
+1383,l-ornithine hydrochloride,BDNF_HUMAN,131995.07
+1384,glycitin,BDNF_HUMAN,132009.10
+1385,sodium propionate,BDNF_HUMAN,132147.44
+1386,bulgarian tribulus,BDNF_HUMAN,132374.45
+1387,sodium glycerophosphate,BDNF_HUMAN,133532.69
+1388,dysprosium,BDNF_HUMAN,134556.75
+1389,furazan,BDNF_HUMAN,134639.89
+1390,magnesium hydrogen sulfate,BDNF_HUMAN,134660.02
+1391,n-(aminoiminomethyl)-n-methyl glycine,BDNF_HUMAN,135420.61
+1392,ferrum phos,BDNF_HUMAN,136336.01
+1393,beta-alanine,BDNF_HUMAN,136525.24
+1394,taurine,BDNF_HUMAN,136735.21
+1395,lime,BDNF_HUMAN,137018.71
+1396,poa,BDNF_HUMAN,137171.44
+1397,n-acetyl leucine,BDNF_HUMAN,137613.57
+1398,beryllium,BDNF_HUMAN,139487.90
+1399,sarcosine,BDNF_HUMAN,140307.06
+1400,magnesium,BDNF_HUMAN,140449.83
+1401,promethium,BDNF_HUMAN,140642.04
+1402,proline,BDNF_HUMAN,140698.05
+1403,mos,BDNF_HUMAN,140972.91
+1404,aspartic acid,BDNF_HUMAN,141342.59
+1405,ricinoleic acid,BDNF_HUMAN,141413.67
+1406,barium oxide,BDNF_HUMAN,141443.94
+1407,selenium,BDNF_HUMAN,142162.71
+1408,protectin dx,BDNF_HUMAN,142734.76
+1409,allantoin,BDNF_HUMAN,144534.74
+1410,strontium oxide,BDNF_HUMAN,145058.91
+1411,hafnium,BDNF_HUMAN,145558.93
+1412,manganese,BDNF_HUMAN,145706.34
+1413,l-norvaline,BDNF_HUMAN,146075.09
+1414,noopept,BDNF_HUMAN,146184.86
+1415,gamma amino beta hydroxybutyric acid,BDNF_HUMAN,146204.88
+1416,aluminum,BDNF_HUMAN,146796.79
+1417,myristoleic acid,BDNF_HUMAN,147385.64
+1418,calcium sulfate,BDNF_HUMAN,147423.25
+1419,calcium,BDNF_HUMAN,148096.23
+1420,lysine,BDNF_HUMAN,148141.16
+1421,pa,BDNF_HUMAN,148216.69
+1422,zinc l-methionine,BDNF_HUMAN,149196.06
+1423,butyric acid,BDNF_HUMAN,149811.07
+1424,methionine,BDNF_HUMAN,149821.89
+1425,zinc monomethionine,BDNF_HUMAN,149873.44
+1426,beta-hydroxy-beta-methylbutyrate,BDNF_HUMAN,150140.39
+1427,osmium,BDNF_HUMAN,150326.71
+1428,alpha-ketoisocaproic acid,BDNF_HUMAN,150548.20
+1429,sodium chlorite,BDNF_HUMAN,150801.90
+1430,selenious acid,BDNF_HUMAN,150870.28
+1431,glycine ethyl ester,BDNF_HUMAN,150912.93
+1432,glycerin,BDNF_HUMAN,151101.79
+1433,tyrosol,BDNF_HUMAN,151185.72
+1434,muscimol,BDNF_HUMAN,152424.66
+1435,leucine,BDNF_HUMAN,152667.51
+1436,plumbum met,BDNF_HUMAN,153215.42
+1437,rosarin,BDNF_HUMAN,153589.44
+1438,holmium,BDNF_HUMAN,153613.15
+1439,vinegar,BDNF_HUMAN,154372.54
+1440,alginate,BDNF_HUMAN,154500.37
+1441,3-hydroxy-3-methyl-butyric acid,BDNF_HUMAN,154541.90
+1442,choline bitartrate,BDNF_HUMAN,154805.22
+1443,boron,BDNF_HUMAN,155560.80
+1444,water,BDNF_HUMAN,156063.06
+1445,lithium,BDNF_HUMAN,157325.68
+1446,succinic acid,BDNF_HUMAN,157450.77
+1447,creatine hcl,BDNF_HUMAN,157635.49
+1448,rhodium,BDNF_HUMAN,157917.28
+1449,n-acetyl-l-methionine,BDNF_HUMAN,158149.02
+1450,simethicone,BDNF_HUMAN,158342.82
+1451,praseodymium,BDNF_HUMAN,159817.32
+1452,sodium nitrite,BDNF_HUMAN,160692.95
+1453,sulfuric acid,BDNF_HUMAN,161147.26
+1454,pyridoxamine dihydrochloride,BDNF_HUMAN,161657.89
+1455,methionine hydrochloride,BDNF_HUMAN,161883.60
+1456,ammonium,BDNF_HUMAN,162337.03
+1457,samarium,BDNF_HUMAN,163249.77
+1458,cichoric acid,BDNF_HUMAN,164080.67
+1459,bismuth,BDNF_HUMAN,164151.91
+1460,erythritol,BDNF_HUMAN,164266.94
+1461,alpha ketoisocaproate,BDNF_HUMAN,164324.69
+1462,manganese oxide,BDNF_HUMAN,165808.97
+1463,phosphoric acid,BDNF_HUMAN,166026.97
+1464,propylene glycol,BDNF_HUMAN,167189.53
+1465,thulium,BDNF_HUMAN,167389.97
+1466,silica,BDNF_HUMAN,167493.53
+1467,zinc fumarate,BDNF_HUMAN,167500.09
+1468,gold,BDNF_HUMAN,167850.99
+1469,montmorillonite,BDNF_HUMAN,168529.43
+1470,nickel,BDNF_HUMAN,168633.80
+1471,niacin,BDNF_HUMAN,168839.31
+1472,l-ornithine,BDNF_HUMAN,169176.94
+1473,amygdalin,BDNF_HUMAN,171249.29
+1474,creatine monohydrate,BDNF_HUMAN,171395.98
+1475,propionic acid,BDNF_HUMAN,171470.45
+1476,sodium vanadate,BDNF_HUMAN,172140.71
+1477,dimethylglycine,BDNF_HUMAN,172969.81
+1478,sorbic acid,BDNF_HUMAN,173021.97
+1479,capric acid,BDNF_HUMAN,173031.15
+1480,sorbitol,BDNF_HUMAN,173537.93
+1481,pyridoxamine,BDNF_HUMAN,175652.13
+1482,glycetein,BDNF_HUMAN,175703.12
+1483,rhenium,BDNF_HUMAN,175821.68
+1484,palmitoleic acid,BDNF_HUMAN,176275.09
+1485,oxaloacetate,BDNF_HUMAN,177184.03
+1486,d-glucosamine sulphate,BDNF_HUMAN,177582.50
+1487,gallium,BDNF_HUMAN,177608.13
+1488,silicon,BDNF_HUMAN,178043.76
+1489,dynamine,BDNF_HUMAN,178454.39
+1490,2-cyclohexylethylamine,BDNF_HUMAN,179037.80
+1491,caproic acid,BDNF_HUMAN,179203.82
+1492,glucosamine,BDNF_HUMAN,179311.57
+1493,vanadyl sulfate,BDNF_HUMAN,179729.67
+1494,ammonium chloride,BDNF_HUMAN,180144.80
+1495,calcium fluoride,BDNF_HUMAN,180659.00
+1496,ionic silver,BDNF_HUMAN,181325.28
+1497,terbium,BDNF_HUMAN,181703.33
+1498,phenol,BDNF_HUMAN,182076.11
+1499,aminoglycine,BDNF_HUMAN,182096.40
+1500,petroselinic acid,BDNF_HUMAN,182146.39
+1501,ytterbium,BDNF_HUMAN,183000.28
+1502,alpha-keto glutarate,BDNF_HUMAN,183297.00
+1503,carbon dioxide,BDNF_HUMAN,183381.24
+1504,kre-alkalyn,BDNF_HUMAN,183441.82
+1505,oleic acid,BDNF_HUMAN,183503.01
+1506,tantalum,BDNF_HUMAN,183881.72
+1507,margaroleic acid,BDNF_HUMAN,184302.85
+1508,nervonic acid,BDNF_HUMAN,184577.23
+1509,pterostilbene,BDNF_HUMAN,184862.70
+1510,pyruvic acid,BDNF_HUMAN,185414.55
+1511,gadoleic acid,BDNF_HUMAN,186572.19
+1512,chromium,BDNF_HUMAN,186809.11
+1513,uranium,BDNF_HUMAN,187466.89
+1514,cis-vaccenic acid,BDNF_HUMAN,187666.23
+1515,hica,BDNF_HUMAN,188500.44
+1516,zinc oxide,BDNF_HUMAN,189297.73
+1517,indium,BDNF_HUMAN,189486.02
+1518,thiamine hydrochloride,BDNF_HUMAN,190967.94
+1519,zinc acetate dihydrate,BDNF_HUMAN,191596.63
+1520,magnesium hydroxide,BDNF_HUMAN,192179.78
+1521,potassium alpha-ketoglutarate,BDNF_HUMAN,193180.41
+1522,gaba,BDNF_HUMAN,194125.15
+1523,lithium oxide,BDNF_HUMAN,194321.90
+1524,stevia,BDNF_HUMAN,194768.72
+1525,hydrogen peroxide,BDNF_HUMAN,195617.87
+1526,germanium,BDNF_HUMAN,196129.66
+1527,scandium,BDNF_HUMAN,196441.84
+1528,activated charcoal,BDNF_HUMAN,197041.94
+1529,l-hydroxyproline,BDNF_HUMAN,197098.81
+1530,tungsten,BDNF_HUMAN,197192.21
+1531,iron,BDNF_HUMAN,197806.23
+1532,alliin,BDNF_HUMAN,198815.94
+1533,sodium,BDNF_HUMAN,198868.58
+1534,hydrogen sulfate,BDNF_HUMAN,200597.04
+1535,molybdenum,BDNF_HUMAN,200788.44
+1536,hydrogen,BDNF_HUMAN,200791.36
+1537,vanadium,BDNF_HUMAN,201290.28
+1538,zinc,BDNF_HUMAN,202726.24
+1539,molybdenum trioxide,BDNF_HUMAN,202822.90
+1540,mangiferin,BDNF_HUMAN,203555.78
+1541,octadecadienoic acid,BDNF_HUMAN,203666.50
+1542,lutetium,BDNF_HUMAN,203843.20
+1543,2cm,BDNF_HUMAN,203964.08
+1544,beta hydroxybutyrate,BDNF_HUMAN,207872.55
+1545,erbium,BDNF_HUMAN,208782.64
+1546,cadmium,BDNF_HUMAN,209572.54
+1547,gf5,BDNF_HUMAN,209646.69
+1548,l3c,BDNF_HUMAN,210111.53
+1549,nickel oxide,BDNF_HUMAN,210235.12
+1550,orotic acid,BDNF_HUMAN,210726.77
+1551,dimethylglycine hcl,BDNF_HUMAN,211130.06
+1552,magnesium oxide,BDNF_HUMAN,211131.24
+1553,chloride,BDNF_HUMAN,211289.41
+1554,zirconium,BDNF_HUMAN,211374.82
+1555,tellurium,BDNF_HUMAN,211525.43
+1556,erucic acid,BDNF_HUMAN,212220.14
+1557,rubidium chloride,BDNF_HUMAN,212486.12
+1558,creatine nitrate,BDNF_HUMAN,213594.16
+1559,cerium,BDNF_HUMAN,214419.33
+1560,thiamine,BDNF_HUMAN,214919.63
+1561,platinum,BDNF_HUMAN,215096.80
+1562,thorium,BDNF_HUMAN,215096.80
+1563,agmatine sulfate,BDNF_HUMAN,215275.24
+1564,threonic acid,BDNF_HUMAN,215478.07
+1565,peg,BDNF_HUMAN,216373.06
+1566,betaine,BDNF_HUMAN,225689.51
+1567,antimony,BDNF_HUMAN,226085.69
+1568,niobium,BDNF_HUMAN,227425.98
+1569,cesium,BDNF_HUMAN,228707.51
+1570,ferric oxide,BDNF_HUMAN,228892.35
+1571,rubidium,BDNF_HUMAN,230118.86
+1572,nitrogen,BDNF_HUMAN,230503.95
+1573,titanium,BDNF_HUMAN,231455.24
+1574,delete,BDNF_HUMAN,236046.80
+1575,betaine monohydrate,BDNF_HUMAN,236233.37
+1576,calcium chloride,BDNF_HUMAN,236755.47
+1577,yttrium,BDNF_HUMAN,237166.38
+1578,ruthenium,BDNF_HUMAN,237288.44
+1579,palladium,BDNF_HUMAN,241700.61
+1580,zeolites,BDNF_HUMAN,243044.85
+1581,thallium,BDNF_HUMAN,250949.56
+1582,selenomethionine,BDNF_HUMAN,255310.89
+1583,magnesium chloride,BDNF_HUMAN,255633.73
+1584,pyruvate,BDNF_HUMAN,257320.04
+1585,iridium,BDNF_HUMAN,258048.54
+1586,sugar,BDNF_HUMAN,260158.90
+1587,gadolinium,BDNF_HUMAN,260606.97
+1588,aluminum hydroxide,BDNF_HUMAN,267768.65
+1589,imd,BDNF_HUMAN,271405.63
+1590,magnesium carbonate,BDNF_HUMAN,274684.73
+1591,tin,BDNF_HUMAN,286757.53
+1592,copper,BDNF_HUMAN,287921.53
+1593,tartaric acid,BDNF_HUMAN,292359.85
+1594,fucose,BDNF_HUMAN,298894.39
+1595,lanthanum,BDNF_HUMAN,298917.38
+1596,neodymium,BDNF_HUMAN,303321.18
+1597,gum tragacanth,BDNF_HUMAN,308059.52
+1598,methylselenocysteine,BDNF_HUMAN,309676.05
+1599,glycine,BDNF_HUMAN,309809.29
+1600,cesium chloride,BDNF_HUMAN,320052.61
+1601,potassium,BDNF_HUMAN,324963.33
+1602,chlorogenic acid,BDNF_HUMAN,342817.71
+1603,alpha-amylase,BDNF_HUMAN,343475.12
+1604,lactoferrin,BDNF_HUMAN,356348.09
+1605,ferrous sulfate,BDNF_HUMAN,370188.09
+1606,20-hydroxyecdysone,BDNF_HUMAN,385548.65
+1607,cetoleic acid,BDNF_HUMAN,399365.22
+1608,pullulan,BDNF_HUMAN,405304.88
+1609,cobalamin,BDNF_HUMAN,422585.95
+1610,epidermal growth factor,BDNF_HUMAN,422690.81
+1611,mercury,BDNF_HUMAN,427947.08
+1612,amp,BDNF_HUMAN,432810.87
+1613,caprylic acid,BDNF_HUMAN,439118.86
+1614,d-pinitol,BDNF_HUMAN,439631.30
+1615,inositol,BDNF_HUMAN,440657.63
+1616,8-prenylnaringenin,BDNF_HUMAN,451558.04
+1617,imo,BDNF_HUMAN,462704.20
+1618,punicic acid,BDNF_HUMAN,501361.65
+1619,trendione,BDNF_HUMAN,527637.21
+1620,n-acetyl d-glucosamine,BDNF_HUMAN,538047.40
+1621,lysozyme,BDNF_HUMAN,550382.62
+1622,lecithin,BDNF_HUMAN,592026.10
+1623,cinnamic acid,BDNF_HUMAN,607606.84
+1624,cynaropicrin,BDNF_HUMAN,660699.63
+1625,glycocholic acid,BDNF_HUMAN,667563.14
+1626,5-methyltetrahydrofolate,BDNF_HUMAN,682578.86
+1627,sodium chloride,BDNF_HUMAN,718754.45
+1628,evodiamine,BDNF_HUMAN,728116.54
+1629,barium,BDNF_HUMAN,747531.90
+1630,strontium,BDNF_HUMAN,791096.32
+1631,undec-10-enoic acid,BDNF_HUMAN,791718.26
+1632,glycomacropeptides,BDNF_HUMAN,792882.01
+1633,valyl-prolyl-proline,BDNF_HUMAN,796243.63
+1634,alpha-d-ribofuranose,BDNF_HUMAN,814610.62
+1635,super citrimax,BDNF_HUMAN,828377.39
+1636,d-mannose,BDNF_HUMAN,857863.85
+1637,kic,BDNF_HUMAN,860420.19
+1638,hydrochloric acid,BDNF_HUMAN,863082.08
+1639,amaranth,BDNF_HUMAN,875912.95
+1640,sciadopitysin,BDNF_HUMAN,882332.33
+1641,tryptophan,BDNF_HUMAN,899463.79
+1642,agmatine,BDNF_HUMAN,908638.83
+1643,hydroxocobalamin hydrochloride,BDNF_HUMAN,925435.85
+1644,sulbutiamine,BDNF_HUMAN,942860.89
+1645,geranium,BDNF_HUMAN,966138.24
+1646,methylfolate,BDNF_HUMAN,990004.27
+1647,maltitol,BDNF_HUMAN,1025523.76
+1648,insulin,BDNF_HUMAN,1036714.39
+1649,tetrahydrocannabinol,BDNF_HUMAN,1043689.04
+1650,pinene,BDNF_HUMAN,1075141.03
+1651,ecg,BDNF_HUMAN,1109726.21
+1652,gamma-mangostin,BDNF_HUMAN,1127762.62
+1653,lgd-4033,BDNF_HUMAN,1129462.09
+1654,fursultiamine,BDNF_HUMAN,1148239.19
+1655,7-keto,BDNF_HUMAN,1182846.16
+1656,biotin,BDNF_HUMAN,1228776.32
+1657,histosol,BDNF_HUMAN,1267993.97
+1658,3;5-diiodotyrosine,BDNF_HUMAN,1321453.63
+1659,arginine,BDNF_HUMAN,1343091.71
+1660,n-acetyl-l-glutamine,BDNF_HUMAN,1374879.96
+1661,manganese ascorbate,BDNF_HUMAN,1499898.32
+1662,l-leucine nitrate,BDNF_HUMAN,1518336.76
+1663,docosapentaenoic acid,BDNF_HUMAN,1521523.75
+1664,potassium ascorbate,BDNF_HUMAN,1539231.38
+1665,alanine,BDNF_HUMAN,1648311.70
+1666,betaine hydrochloride,BDNF_HUMAN,1654628.74
+1667,phytoene,BDNF_HUMAN,1699233.52
+1668,xylitol,BDNF_HUMAN,1799300.48
+1669,tecto-chrysin,BDNF_HUMAN,1915711.07
+1670,betaine nitrate,BDNF_HUMAN,1961630.92
+1671,creatine pyruvate,BDNF_HUMAN,2023057.80
+1672,magnesium 2-aminoethanol phosphate,BDNF_HUMAN,2038827.34
+1673,esc,BDNF_HUMAN,2072257.88
+1674,glyceryl dilaurate,BDNF_HUMAN,2195844.95
+1675,creatine ethyl ester hcl,BDNF_HUMAN,2217306.10
+1676,iron bisglycinate,BDNF_HUMAN,2244088.79
+1677,carbonates,BDNF_HUMAN,2549302.29
+1678,boric acid,BDNF_HUMAN,2594256.49
+1679,potassium succinate,BDNF_HUMAN,2716091.63
+1680,trisodium citrate dihydrate,BDNF_HUMAN,3153371.37
+1681,calcium sulfate monohydrate,BDNF_HUMAN,3372101.36
+1682,zinc sulfate,BDNF_HUMAN,3718759.20
+1683,phosphorus,BDNF_HUMAN,4263625.05
+1684,sodium fluoride,BDNF_HUMAN,5124490.00
+1685,beta-glucanase,BDNF_HUMAN,5146453.25
+1686,arsenic,BDNF_HUMAN,5179285.10
+1687,calcium caseinate,BDNF_HUMAN,5186542.59

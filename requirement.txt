@@ -1,0 +1,7 @@
+DeepPurpose
+rdkit
+torch
+pandas
+numpy
+matplotlib
+requests
